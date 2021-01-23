@@ -24032,13 +24032,14 @@
         "delta": {
           "confirmed": 22,
           "deceased": 1,
-          "recovered": 31
+          "recovered": 31,
+          "tested": 1233
         },
         "total": {
           "confirmed": 20686,
           "deceased": 333,
           "recovered": 20226,
-          "tested": 205814
+          "tested": 207047
         }
       }
     }
@@ -28047,11 +28048,17 @@
         }
       },
       "2021-01-23": {
+        "delta": {
+          "confirmed": 377,
+          "deceased": 8,
+          "recovered": 637,
+          "tested": 20405
+        },
         "total": {
-          "confirmed": 295949,
-          "deceased": 3601,
-          "recovered": 287040,
-          "tested": 4056025
+          "confirmed": 296326,
+          "deceased": 3609,
+          "recovered": 287677,
+          "tested": 4076430
         }
       }
     }
@@ -32412,13 +32419,14 @@
         "delta": {
           "confirmed": 197,
           "deceased": 10,
-          "recovered": 367
+          "recovered": 367,
+          "tested": 76868
         },
         "total": {
           "confirmed": 633739,
           "deceased": 10799,
           "recovered": 621060,
-          "tested": 10212593
+          "tested": 10289461
         }
       }
     }
@@ -48524,12 +48532,15 @@
         }
       },
       "2021-01-23": {
+        "delta": {
+          "tested": 3753
+        },
         "total": {
           "confirmed": 57162,
           "deceased": 958,
           "other": 16,
           "recovered": 55672,
-          "tested": 901112
+          "tested": 904865
         }
       }
     }
@@ -65683,12 +65694,18 @@
         }
       },
       "2021-01-23": {
+        "delta": {
+          "confirmed": 902,
+          "deceased": 3,
+          "recovered": 542,
+          "tested": 86410
+        },
         "total": {
-          "confirmed": 934576,
-          "deceased": 12190,
+          "confirmed": 935478,
+          "deceased": 12193,
           "other": 19,
-          "recovered": 915382,
-          "tested": 16399189
+          "recovered": 915924,
+          "tested": 16485599
         }
       }
     }
@@ -70358,13 +70375,16 @@
       },
       "2021-01-23": {
         "delta": {
+          "confirmed": 6960,
+          "deceased": 23,
+          "recovered": 5283,
           "tested": 61066
         },
         "total": {
-          "confirmed": 877283,
-          "deceased": 3565,
+          "confirmed": 884243,
+          "deceased": 3588,
           "other": 227,
-          "recovered": 803094,
+          "recovered": 808377,
           "tested": 9210023
         }
       }
@@ -78890,14 +78910,15 @@
           "confirmed": 2697,
           "deceased": 56,
           "other": 3,
-          "recovered": 3694
+          "recovered": 3694,
+          "tested": 64899
         },
         "total": {
           "confirmed": 2006354,
           "deceased": 50740,
           "other": 1223,
           "recovered": 1910521,
-          "tested": 14080930
+          "tested": 14145829
         }
       }
     }
@@ -82441,13 +82462,14 @@
       "2021-01-22": {
         "delta": {
           "confirmed": 2,
-          "recovered": 3
+          "recovered": 3,
+          "tested": 1304
         },
         "total": {
           "confirmed": 13723,
           "deceased": 146,
           "recovered": 13449,
-          "tested": 323284
+          "tested": 324588
         }
       },
       "2021-01-23": {
@@ -82459,7 +82481,7 @@
           "confirmed": 13727,
           "deceased": 146,
           "recovered": 13459,
-          "tested": 323284
+          "tested": 324588
         }
       }
     }
@@ -93775,13 +93797,14 @@
       },
       "2021-01-23": {
         "delta": {
-          "recovered": 2
+          "recovered": 2,
+          "tested": 1129
         },
         "total": {
           "confirmed": 4349,
           "deceased": 9,
           "recovered": 4284,
-          "tested": 198999
+          "tested": 200128
         }
       }
     }
@@ -106034,13 +106057,14 @@
         "delta": {
           "confirmed": 211,
           "deceased": 10,
-          "recovered": 232
+          "recovered": 232,
+          "tested": 20364
         },
         "total": {
           "confirmed": 171733,
           "deceased": 5553,
           "recovered": 163887,
-          "tested": 4328277
+          "tested": 4348641
         }
       }
     }
@@ -109906,11 +109930,14 @@
         }
       },
       "2021-01-23": {
+        "delta": {
+          "tested": 3296
+        },
         "total": {
           "confirmed": 38794,
           "deceased": 643,
           "recovered": 37857,
-          "tested": 553893
+          "tested": 557189
         }
       }
     }
@@ -126203,13 +126230,14 @@
         "delta": {
           "confirmed": 586,
           "deceased": 2,
-          "recovered": 673
+          "recovered": 673,
+          "tested": 63073
         },
         "total": {
           "confirmed": 834171,
           "deceased": 12309,
           "recovered": 816878,
-          "tested": 15514693
+          "tested": 15577766
         }
       }
     }
@@ -135210,16 +135238,16 @@
       },
       "2021-01-23": {
         "delta": {
-          "confirmed": 5871,
-          "deceased": 108,
+          "confirmed": 14110,
+          "deceased": 142,
           "other": 7,
-          "recovered": 8009
+          "recovered": 14471
         },
         "total": {
-          "confirmed": 10646417,
-          "deceased": 153329,
+          "confirmed": 10654656,
+          "deceased": 153363,
           "other": 4436,
-          "recovered": 10308072,
+          "recovered": 10314534,
           "tested": 190985119,
           "vaccinated": 1390592
         }
