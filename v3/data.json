@@ -38,18 +38,21 @@
       "last_updated": "2021-01-24T23:35:56+05:30",
       "population": 397000,
       "tested": {
-        "last_updated": "2021-01-21",
-        "source": "https://dhs.andaman.gov.in/NewEvents/540.pdf"
+        "last_updated": "2021-01-24",
+        "source": "https://dhs.andaman.gov.in/NewEvents/543.pdf"
       }
     },
     "total": {
       "confirmed": 4993,
       "deceased": 62,
       "recovered": 4908,
-      "tested": 209437
+      "tested": 213467
     }
   },
   "AP": {
+    "delta": {
+      "tested": 27717
+    },
     "districts": {
       "Anantapur": {
         "meta": {
@@ -263,15 +266,15 @@
       "last_updated": "2021-01-24T19:20:53+05:30",
       "population": 52221000,
       "tested": {
-        "last_updated": "2021-01-24",
-        "source": "https://twitter.com/ArogyaAndhra/status/1353322532997271552/photo/1"
+        "last_updated": "2021-01-25",
+        "source": "https://twitter.com/ArogyaAndhra/status/1353708414568808454/photo/1"
       }
     },
     "total": {
       "confirmed": 887010,
       "deceased": 7147,
       "recovered": 878387,
-      "tested": 12876113
+      "tested": 12903830
     }
   },
   "AR": {
@@ -1045,6 +1048,9 @@
     }
   },
   "BR": {
+    "delta": {
+      "tested": 69269
+    },
     "districts": {
       "Araria": {
         "meta": {
@@ -1622,8 +1628,8 @@
       "last_updated": "2021-01-24T21:39:57+05:30",
       "population": 119520000,
       "tested": {
-        "last_updated": "2021-01-24",
-        "source": "https://twitter.com/BiharHealthDept/status/1353353569466900480/photo/1"
+        "last_updated": "2021-01-25",
+        "source": "https://twitter.com/BiharHealthDept/status/1353678693248376832/photo/1"
       }
     },
     "total": {
@@ -1631,7 +1637,7 @@
       "deceased": 1479,
       "migrated": 1,
       "recovered": 256008,
-      "tested": 20491088
+      "tested": 20560357
     }
   },
   "CH": {
@@ -2112,6 +2118,9 @@
     }
   },
   "DL": {
+    "delta": {
+      "tested": 48450
+    },
     "districts": {
       "Central Delhi": {
         "meta": {
@@ -2224,20 +2233,25 @@
       "notes": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "population": 19814000,
       "tested": {
-        "last_updated": "2021-01-24",
-        "source": "Covid19India.org Auxiliary/Testing Datat.me"
+        "last_updated": "2021-01-25"
       }
     },
     "total": {
       "confirmed": 633924,
       "deceased": 10808,
       "recovered": 621375,
-      "tested": 10351768
+      "tested": 10400218
     }
   },
   "DN": {
+    "delta": {
+      "recovered": 1
+    },
     "districts": {
       "Dadra and Nagar Haveli": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 343709,
           "tested": {
@@ -2249,7 +2263,7 @@
           "confirmed": 1653,
           "deceased": 1,
           "migrated": 5,
-          "recovered": 1643,
+          "recovered": 1644,
           "tested": 44813
         }
       },
@@ -2285,7 +2299,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-24T20:10:01+05:30",
+      "last_updated": "2021-01-25T20:40:18+05:30",
       "population": 959000,
       "tested": {
         "last_updated": "2020-10-20",
@@ -2296,11 +2310,14 @@
       "confirmed": 3377,
       "deceased": 2,
       "migrated": 29,
-      "recovered": 3338,
+      "recovered": 3339,
       "tested": 72410
     }
   },
   "GA": {
+    "delta": {
+      "tested": 1396
+    },
     "districts": {
       "North Goa": {
         "meta": {
@@ -2346,15 +2363,15 @@
       "last_updated": "2021-01-24T21:40:00+05:30",
       "population": 1540000,
       "tested": {
-        "last_updated": "2021-01-24",
-        "source": "https://www.goa.gov.in/wp-content/uploads/2021/01/Media-Bulletin-24-th-January-2021.pdf"
+        "last_updated": "2021-01-25",
+        "source": "https://www.goa.gov.in/wp-content/uploads/2021/01/Media-Bulletin-25-th-January-2021.pdf"
       }
     },
     "total": {
       "confirmed": 52920,
       "deceased": 761,
       "recovered": 51335,
-      "tested": 439616
+      "tested": 441012
     }
   },
   "GJ": {
@@ -4798,12 +4815,12 @@
           "population": 64473
         },
         "total": {
-          "confirmed": 57
+          "confirmed": 59
         }
       }
     },
     "meta": {
-      "last_updated": "2021-01-24T09:58:52+05:30",
+      "last_updated": "2021-01-25T20:40:23+05:30",
       "population": 68000,
       "tested": {
         "last_updated": "2021-01-24",
@@ -4811,7 +4828,7 @@
       }
     },
     "total": {
-      "confirmed": 57,
+      "confirmed": 59,
       "tested": 687
     }
   },
@@ -8236,16 +8253,22 @@
   },
   "TG": {
     "delta": {
+      "confirmed": 148,
+      "deceased": 1,
+      "recovered": 302,
       "tested": 19821
     },
     "districts": {
       "Adilabad": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 708952
         },
         "total": {
-          "confirmed": 2850,
+          "confirmed": 2851,
           "recovered": 15
         }
       },
@@ -8268,43 +8291,55 @@
         }
       },
       "Hyderabad": {
+        "delta": {
+          "confirmed": 35
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 3441992
         },
         "total": {
-          "confirmed": 79534,
+          "confirmed": 79569,
           "deceased": 23,
           "recovered": 305
         }
       },
       "Jagtial": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 983414
         },
         "total": {
-          "confirmed": 6118,
+          "confirmed": 6122,
           "recovered": 2
         }
       },
       "Jangaon": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 582457
         },
         "total": {
-          "confirmed": 3606,
+          "confirmed": 3610,
           "recovered": 1
         }
       },
       "Jayashankar Bhupalapally": {
+        "delta": {
+          "confirmed": 3
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 712257
         },
         "total": {
-          "confirmed": 2497
+          "confirmed": 2500
         }
       },
       "Jogulamba Gadwal": {
@@ -8329,112 +8364,145 @@
         }
       },
       "Karimnagar": {
+        "delta": {
+          "confirmed": 10
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 1016063
         },
         "total": {
-          "confirmed": 13718,
+          "confirmed": 13728,
           "recovered": 16
         }
       },
       "Khammam": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 1401639
         },
         "total": {
-          "confirmed": 10558,
+          "confirmed": 10562,
           "recovered": 3
         }
       },
       "Komaram Bheem": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 515835
         },
         "total": {
-          "confirmed": 1599,
+          "confirmed": 1600,
           "recovered": 2
         }
       },
       "Mahabubabad": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 1318110
         },
         "total": {
-          "confirmed": 5403,
+          "confirmed": 5407,
           "recovered": 1
         }
       },
       "Mahabubnagar": {
+        "delta": {
+          "confirmed": 5
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin"
         },
         "total": {
-          "confirmed": 4983,
+          "confirmed": 4988,
           "recovered": 8
         }
       },
       "Mancherial": {
+        "delta": {
+          "confirmed": 7
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 807037
         },
         "total": {
-          "confirmed": 5406,
+          "confirmed": 5413,
           "deceased": 1
         }
       },
       "Medak": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 767428
         },
         "total": {
-          "confirmed": 3653,
+          "confirmed": 3657,
           "recovered": 4
         }
       },
       "Medchal Malkajgiri": {
+        "delta": {
+          "confirmed": 9
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 2542203
         },
         "total": {
-          "confirmed": 19554,
+          "confirmed": 19563,
           "deceased": 1,
           "recovered": 9
         }
       },
       "Mulugu": {
+        "delta": {
+          "confirmed": 3
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 294671
         },
         "total": {
-          "confirmed": 2959,
+          "confirmed": 2962,
           "recovered": 2
         }
       },
       "Nagarkurnool": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 893308
         },
         "total": {
-          "confirmed": 4396,
+          "confirmed": 4398,
           "recovered": 2
         }
       },
       "Nalgonda": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 1631399
         },
         "total": {
-          "confirmed": 12316,
+          "confirmed": 12318,
           "recovered": 12
         }
       },
@@ -8449,22 +8517,28 @@
         }
       },
       "Nirmal": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 709415
         },
         "total": {
-          "confirmed": 2615,
+          "confirmed": 2616,
           "recovered": 13
         }
       },
       "Nizamabad": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 1534428
         },
         "total": {
-          "confirmed": 8100,
+          "confirmed": 8104,
           "recovered": 30
         }
       },
@@ -8477,12 +8551,15 @@
         }
       },
       "Peddapalli": {
+        "delta": {
+          "confirmed": 4
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 795332
         },
         "total": {
-          "confirmed": 5781,
+          "confirmed": 5785,
           "recovered": 1
         }
       },
@@ -8497,60 +8574,79 @@
         }
       },
       "Ranga Reddy": {
+        "delta": {
+          "confirmed": 11
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 2551731
         },
         "total": {
-          "confirmed": 24191,
+          "confirmed": 24202,
           "deceased": 2,
           "recovered": 17
         }
       },
       "Sangareddy": {
+        "delta": {
+          "confirmed": 8
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 1527628
         },
         "total": {
-          "confirmed": 7960,
+          "confirmed": 7968,
           "recovered": 6
         }
       },
       "Siddipet": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 993376
         },
         "total": {
-          "confirmed": 7918,
+          "confirmed": 7919,
           "recovered": 1
         }
       },
       "Suryapet": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 1099560
         },
         "total": {
-          "confirmed": 7043,
+          "confirmed": 7045,
           "recovered": 24
         }
       },
       "Unknown": {
+        "delta": {
+          "deceased": 1,
+          "recovered": 302
+        },
         "total": {
           "confirmed": 457,
-          "deceased": 1559,
-          "recovered": 287724
+          "deceased": 1560,
+          "recovered": 288026
         }
       },
       "Vikarabad": {
+        "delta": {
+          "confirmed": 7
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 881250
         },
         "total": {
-          "confirmed": 2535,
+          "confirmed": 2542,
           "deceased": 1,
           "recovered": 15
         }
@@ -8565,31 +8661,40 @@
         }
       },
       "Warangal Rural": {
+        "delta": {
+          "confirmed": 3
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 716457
         },
         "total": {
-          "confirmed": 3749
+          "confirmed": 3752
         }
       },
       "Warangal Urban": {
+        "delta": {
+          "confirmed": 6
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 1135707
         },
         "total": {
-          "confirmed": 11771,
+          "confirmed": 11777,
           "recovered": 23
         }
       },
       "Yadadri Bhuvanagiri": {
+        "delta": {
+          "confirmed": 3
+        },
         "meta": {
           "notes": "District-wise numbers are out-dated as cumulative counts for each district are not reported in Telangana bulletin",
           "population": 726465
         },
         "total": {
-          "confirmed": 4003
+          "confirmed": 4006
         }
       },
       "Yadgir": {
@@ -8599,7 +8704,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-24T10:59:51+05:30",
+      "last_updated": "2021-01-25T20:39:58+05:30",
       "notes": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "population": 37220000,
       "tested": {
@@ -8608,9 +8713,9 @@
       }
     },
     "total": {
-      "confirmed": 293253,
-      "deceased": 1589,
-      "recovered": 288275,
+      "confirmed": 293401,
+      "deceased": 1590,
+      "recovered": 288577,
       "tested": 7682361
     }
   },
@@ -9381,12 +9486,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 3361,
-      "deceased": 17,
-      "recovered": 5606
+      "confirmed": 3509,
+      "deceased": 18,
+      "recovered": 5909
     },
     "meta": {
-      "last_updated": "2021-01-25T19:17:55+05:30",
+      "last_updated": "2021-01-25T20:39:55+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-01-24",
@@ -9394,10 +9499,10 @@
       }
     },
     "total": {
-      "confirmed": 10672035,
-      "deceased": 153525,
+      "confirmed": 10672185,
+      "deceased": 153526,
       "migrated": 4449,
-      "recovered": 10334850,
+      "recovered": 10335153,
       "tested": 192337117
     }
   },
@@ -10778,6 +10883,9 @@
     }
   },
   "WB": {
+    "delta": {
+      "tested": 18243
+    },
     "districts": {
       "Alipurduar": {
         "meta": {
@@ -11021,15 +11129,15 @@
       "last_updated": "2021-01-24T20:09:54+05:30",
       "population": 96906000,
       "tested": {
-        "last_updated": "2021-01-24",
-        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_24th_JANUARY_REPORT_FINAL.pdf"
+        "last_updated": "2021-01-25",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_25th_JANUARY_REPORT_FINAL.pdf"
       }
     },
     "total": {
       "confirmed": 568103,
       "deceased": 10115,
       "recovered": 551665,
-      "tested": 7833289
+      "tested": 7851532
     }
   }
 }

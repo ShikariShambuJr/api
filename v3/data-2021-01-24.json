@@ -1,7 +1,8 @@
 {
   "AN": {
     "delta": {
-      "recovered": 1
+      "recovered": 1,
+      "tested": 1074
     },
     "districts": {
       "North and Middle Andaman": {
@@ -36,15 +37,15 @@
     "meta": {
       "population": 397000,
       "tested": {
-        "last_updated": "2021-01-21",
-        "source": "https://dhs.andaman.gov.in/NewEvents/540.pdf"
+        "last_updated": "2021-01-24",
+        "source": "https://dhs.andaman.gov.in/NewEvents/543.pdf"
       }
     },
     "total": {
       "confirmed": 4993,
       "deceased": 62,
       "recovered": 4908,
-      "tested": 209437
+      "tested": 213467
     }
   },
   "AP": {
@@ -5630,15 +5631,19 @@
   },
   "LD": {
     "delta": {
+      "confirmed": 2,
       "tested": 163
     },
     "districts": {
       "Lakshadweep": {
+        "delta": {
+          "confirmed": 2
+        },
         "meta": {
           "population": 64473
         },
         "total": {
-          "confirmed": 57
+          "confirmed": 59
         }
       }
     },
@@ -5650,7 +5655,7 @@
       }
     },
     "total": {
-      "confirmed": 57,
+      "confirmed": 59,
       "tested": 687
     }
   },
@@ -11182,7 +11187,7 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 13232,
+      "confirmed": 13234,
       "deceased": 131,
       "migrated": 6,
       "recovered": 13148,
@@ -11196,7 +11201,7 @@
       }
     },
     "total": {
-      "confirmed": 10668674,
+      "confirmed": 10668676,
       "deceased": 153508,
       "migrated": 4449,
       "recovered": 10329244,
