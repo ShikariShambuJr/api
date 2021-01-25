@@ -4728,7 +4728,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-25T19:08:55+05:30",
+      "last_updated": "2021-01-25T19:17:57+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "population": 35125000,
       "tested": {
@@ -8235,6 +8235,9 @@
     }
   },
   "TG": {
+    "delta": {
+      "tested": 19821
+    },
     "districts": {
       "Adilabad": {
         "meta": {
@@ -8600,15 +8603,15 @@
       "notes": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "population": 37220000,
       "tested": {
-        "last_updated": "2021-01-24",
-        "source": "https://twitter.com/IPRTelangana/status/1353192708496527360?s=20"
+        "last_updated": "2021-01-25",
+        "source": "https://twitter.com/IPRTelangana/status/1353579127949860866?s=20"
       }
     },
     "total": {
       "confirmed": 293253,
       "deceased": 1589,
       "recovered": 288275,
-      "tested": 7662540
+      "tested": 7682361
     }
   },
   "TN": {
@@ -8655,15 +8658,15 @@
           "notes": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.",
           "population": 7100000,
           "tested": {
-            "last_updated": "2021-01-23",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5165"
+            "last_updated": "2021-01-24",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5232"
           }
         },
         "total": {
           "confirmed": 230195,
           "deceased": 4082,
           "recovered": 224417,
-          "tested": 2577828
+          "tested": 2588432
         }
       },
       "Coimbatore": {
@@ -9205,13 +9208,19 @@
     }
   },
   "TR": {
+    "delta": {
+      "tested": 800
+    },
     "districts": {
       "Dhalai": {
+        "delta": {
+          "tested": 82
+        },
         "meta": {
           "population": 377988,
           "tested": {
-            "last_updated": "2021-01-23",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5143"
+            "last_updated": "2021-01-25",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5231"
           }
         },
         "total": {
@@ -9219,15 +9228,18 @@
           "deceased": 18,
           "migrated": 1,
           "recovered": 3453,
-          "tested": 61232
+          "tested": 61314
         }
       },
       "Gomati": {
+        "delta": {
+          "tested": 30
+        },
         "meta": {
           "population": 436868,
           "tested": {
-            "last_updated": "2021-01-23",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5143"
+            "last_updated": "2021-01-25",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5231"
           }
         },
         "total": {
@@ -9235,30 +9247,36 @@
           "deceased": 44,
           "migrated": 1,
           "recovered": 3883,
-          "tested": 47229
+          "tested": 47259
         }
       },
       "Khowai": {
+        "delta": {
+          "tested": 37
+        },
         "meta": {
           "population": 327391,
           "tested": {
-            "last_updated": "2021-01-23",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5143"
+            "last_updated": "2021-01-25",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5231"
           }
         },
         "total": {
           "confirmed": 1840,
           "deceased": 31,
           "recovered": 1807,
-          "tested": 23838
+          "tested": 23875
         }
       },
       "North Tripura": {
+        "delta": {
+          "tested": 120
+        },
         "meta": {
           "population": 415946,
           "tested": {
-            "last_updated": "2021-01-23",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5143"
+            "last_updated": "2021-01-25",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5231"
           }
         },
         "total": {
@@ -9266,30 +9284,36 @@
           "deceased": 16,
           "migrated": 7,
           "recovered": 2734,
-          "tested": 100227
+          "tested": 100347
         }
       },
       "Sipahijala": {
+        "delta": {
+          "tested": 66
+        },
         "meta": {
           "population": 484233,
           "tested": {
-            "last_updated": "2021-01-23",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5143"
+            "last_updated": "2021-01-25",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5231"
           }
         },
         "total": {
           "confirmed": 2881,
           "deceased": 39,
           "recovered": 2841,
-          "tested": 52711
+          "tested": 52777
         }
       },
       "South Tripura": {
+        "delta": {
+          "tested": 113
+        },
         "meta": {
           "population": 433737,
           "tested": {
-            "last_updated": "2021-01-23",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5143"
+            "last_updated": "2021-01-25",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5231"
           }
         },
         "total": {
@@ -9297,30 +9321,36 @@
           "deceased": 23,
           "migrated": 3,
           "recovered": 4027,
-          "tested": 82575
+          "tested": 82688
         }
       },
       "Unokoti": {
+        "delta": {
+          "tested": 29
+        },
         "meta": {
           "population": 277335,
           "tested": {
-            "last_updated": "2021-01-23",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5143"
+            "last_updated": "2021-01-25",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5231"
           }
         },
         "total": {
           "confirmed": 2767,
           "deceased": 23,
           "recovered": 2743,
-          "tested": 34698
+          "tested": 34727
         }
       },
       "West Tripura": {
+        "delta": {
+          "tested": 323
+        },
         "meta": {
           "population": 917534,
           "tested": {
-            "last_updated": "2021-01-23",
-            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5143"
+            "last_updated": "2021-01-25",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5231"
           }
         },
         "total": {
@@ -9328,7 +9358,7 @@
           "deceased": 194,
           "migrated": 11,
           "recovered": 11408,
-          "tested": 201020
+          "tested": 201343
         }
       }
     },
@@ -9337,8 +9367,8 @@
       "notes": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "population": 3992000,
       "tested": {
-        "last_updated": "2021-01-23",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5143"
+        "last_updated": "2021-01-25",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5231"
       }
     },
     "total": {
@@ -9346,7 +9376,7 @@
       "deceased": 388,
       "migrated": 23,
       "recovered": 32896,
-      "tested": 603530
+      "tested": 604330
     }
   },
   "TT": {
@@ -9356,7 +9386,7 @@
       "recovered": 5606
     },
     "meta": {
-      "last_updated": "2021-01-25T19:08:53+05:30",
+      "last_updated": "2021-01-25T19:17:55+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-01-24",
