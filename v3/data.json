@@ -50,8 +50,16 @@
     }
   },
   "AP": {
+    "delta": {
+      "confirmed": 146,
+      "deceased": 1,
+      "recovered": 178
+    },
     "districts": {
       "Anantapur": {
+        "delta": {
+          "confirmed": 7
+        },
         "meta": {
           "population": 4083315,
           "tested": {
@@ -60,13 +68,17 @@
           }
         },
         "total": {
-          "confirmed": 67614,
+          "confirmed": 67621,
           "deceased": 598,
           "recovered": 66960,
           "tested": 809025
         }
       },
       "Chittoor": {
+        "delta": {
+          "confirmed": 11,
+          "recovered": 17
+        },
         "meta": {
           "population": 4170468,
           "tested": {
@@ -75,9 +87,9 @@
           }
         },
         "total": {
-          "confirmed": 86950,
+          "confirmed": 86961,
           "deceased": 847,
-          "recovered": 85973,
+          "recovered": 85990,
           "tested": 791735
         }
       },
@@ -103,6 +115,10 @@
         }
       },
       "Guntur": {
+        "delta": {
+          "confirmed": 22,
+          "recovered": 30
+        },
         "meta": {
           "population": 4889230,
           "tested": {
@@ -111,13 +127,17 @@
           }
         },
         "total": {
-          "confirmed": 75405,
+          "confirmed": 75427,
           "deceased": 670,
-          "recovered": 74555,
+          "recovered": 74585,
           "tested": 852177
         }
       },
       "Krishna": {
+        "delta": {
+          "confirmed": 39,
+          "recovered": 42
+        },
         "meta": {
           "population": 4529009,
           "tested": {
@@ -126,13 +146,17 @@
           }
         },
         "total": {
-          "confirmed": 48501,
+          "confirmed": 48540,
           "deceased": 676,
-          "recovered": 47577,
+          "recovered": 47619,
           "tested": 803134
         }
       },
       "Kurnool": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 6
+        },
         "meta": {
           "population": 4046601,
           "tested": {
@@ -141,9 +165,9 @@
           }
         },
         "total": {
-          "confirmed": 60778,
+          "confirmed": 60779,
           "deceased": 488,
-          "recovered": 60235,
+          "recovered": 60241,
           "tested": 892927
         }
       },
@@ -154,6 +178,10 @@
         }
       },
       "Prakasam": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 6
+        },
         "meta": {
           "population": 3392764,
           "tested": {
@@ -162,13 +190,17 @@
           }
         },
         "total": {
-          "confirmed": 62165,
+          "confirmed": 62169,
           "deceased": 580,
-          "recovered": 61507,
+          "recovered": 61513,
           "tested": 711492
         }
       },
       "S.P.S. Nellore": {
+        "delta": {
+          "confirmed": 3,
+          "recovered": 5
+        },
         "meta": {
           "population": 2966082,
           "tested": {
@@ -177,13 +209,17 @@
           }
         },
         "total": {
-          "confirmed": 62291,
+          "confirmed": 62294,
           "deceased": 506,
-          "recovered": 61691,
+          "recovered": 61696,
           "tested": 692285
         }
       },
       "Srikakulam": {
+        "delta": {
+          "confirmed": 10,
+          "recovered": 6
+        },
         "meta": {
           "population": 2699471,
           "tested": {
@@ -192,13 +228,17 @@
           }
         },
         "total": {
-          "confirmed": 46102,
+          "confirmed": 46112,
           "deceased": 347,
-          "recovered": 45714,
+          "recovered": 45720,
           "tested": 683370
         }
       },
       "Visakhapatnam": {
+        "delta": {
+          "confirmed": 34,
+          "recovered": 29
+        },
         "meta": {
           "population": 4288113,
           "tested": {
@@ -207,13 +247,16 @@
           }
         },
         "total": {
-          "confirmed": 59650,
+          "confirmed": 59684,
           "deceased": 561,
-          "recovered": 58963,
+          "recovered": 58992,
           "tested": 761899
         }
       },
       "Vizianagaram": {
+        "delta": {
+          "recovered": 3
+        },
         "meta": {
           "population": 2342868,
           "tested": {
@@ -224,7 +267,7 @@
         "total": {
           "confirmed": 41128,
           "deceased": 238,
-          "recovered": 40865,
+          "recovered": 40868,
           "tested": 544937
         }
       },
@@ -244,6 +287,11 @@
         }
       },
       "Y.S.R. Kadapa": {
+        "delta": {
+          "confirmed": 15,
+          "deceased": 1,
+          "recovered": 34
+        },
         "meta": {
           "population": 2884524,
           "tested": {
@@ -252,9 +300,9 @@
           }
         },
         "total": {
-          "confirmed": 55218,
-          "deceased": 462,
-          "recovered": 54649,
+          "confirmed": 55233,
+          "deceased": 463,
+          "recovered": 54683,
           "tested": 687017
         }
       }
@@ -268,9 +316,9 @@
       }
     },
     "total": {
-      "confirmed": 887066,
-      "deceased": 7149,
-      "recovered": 878528,
+      "confirmed": 887212,
+      "deceased": 7150,
+      "recovered": 878706,
       "tested": 12903830
     }
   },
@@ -4013,7 +4061,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-26T19:16:08+05:30",
+      "last_updated": "2021-01-26T19:28:07+05:30",
       "population": 13203000,
       "tested": {
         "last_updated": "2021-01-25",
@@ -4610,7 +4658,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-26T19:16:02+05:30",
+      "last_updated": "2021-01-26T19:27:59+05:30",
       "population": 65798000,
       "tested": {
         "last_updated": "2021-01-25",
@@ -9667,7 +9715,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-26T19:16:04+05:30",
+      "last_updated": "2021-01-26T19:28:01+05:30",
       "notes": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "population": 75695000,
       "tested": {
@@ -9843,12 +9891,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1661,
-      "deceased": 20,
-      "recovered": 2060
+      "confirmed": 1807,
+      "deceased": 21,
+      "recovered": 2238
     },
     "meta": {
-      "last_updated": "2021-01-26T19:15:59+05:30",
+      "last_updated": "2021-01-26T19:27:56+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-01-25",
@@ -9856,10 +9904,10 @@
       }
     },
     "total": {
-      "confirmed": 10679403,
-      "deceased": 153644,
+      "confirmed": 10679549,
+      "deceased": 153645,
       "migrated": 4457,
-      "recovered": 10347367,
+      "recovered": 10347545,
       "tested": 193062694
     }
   },
