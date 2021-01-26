@@ -1797,7 +1797,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-26T20:09:10+05:30",
+      "last_updated": "2021-01-26T20:25:15+05:30",
       "population": 959000,
       "tested": {
         "last_updated": "2020-10-20",
@@ -2444,7 +2444,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-26T20:09:06+05:30",
+      "last_updated": "2021-01-26T20:25:10+05:30",
       "population": 67936000,
       "tested": {
         "last_updated": "2021-01-25"
@@ -7219,8 +7219,15 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 32,
+      "recovered": 17
+    },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "confirmed": 3
+        },
         "meta": {
           "notes": "2 case of TN has been transferred,so has been reduced from the total count.",
           "population": 200222,
@@ -7229,13 +7236,17 @@
           }
         },
         "total": {
-          "confirmed": 3867,
+          "confirmed": 3870,
           "deceased": 64,
           "recovered": 3776,
           "tested": 71965
         }
       },
       "Mahe": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 8
+        },
         "meta": {
           "notes": "1 case of KL have been transferred,so have been reduced from the total count",
           "population": 41816,
@@ -7244,13 +7255,17 @@
           }
         },
         "total": {
-          "confirmed": 1995,
+          "confirmed": 1997,
           "deceased": 9,
-          "recovered": 1895,
+          "recovered": 1903,
           "tested": 41617
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 12,
+          "recovered": 9
+        },
         "meta": {
           "notes": "209 cases(204 of TN, 1 of AP and 4 other) have been transferred,so have been reduced from the total count.[July 18]4 cases have transferred to TN and have been reduced from recovered cases.",
           "population": 950289,
@@ -7259,13 +7274,16 @@
           }
         },
         "total": {
-          "confirmed": 30901,
+          "confirmed": 30913,
           "deceased": 527,
-          "recovered": 30214,
+          "recovered": 30223,
           "tested": 422679
         }
       },
       "Yanam": {
+        "delta": {
+          "confirmed": 15
+        },
         "meta": {
           "notes": "2 cases of AP have been transferred,so have been reduced from the total count",
           "population": 55626,
@@ -7274,7 +7292,7 @@
           }
         },
         "total": {
-          "confirmed": 2115,
+          "confirmed": 2130,
           "deceased": 45,
           "recovered": 2068,
           "tested": 26407
@@ -7282,7 +7300,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-25T21:44:16+05:30",
+      "last_updated": "2021-01-26T20:25:12+05:30",
       "population": 1504000,
       "tested": {
         "last_updated": "2021-01-25",
@@ -7290,9 +7308,9 @@
       }
     },
     "total": {
-      "confirmed": 38878,
+      "confirmed": 38910,
       "deceased": 645,
-      "recovered": 37953,
+      "recovered": 37970,
       "tested": 562668
     }
   },
@@ -7892,7 +7910,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-26T20:09:03+05:30",
+      "last_updated": "2021-01-26T20:25:07+05:30",
       "population": 77264000,
       "tested": {
         "last_updated": "2021-01-25",
@@ -8842,13 +8860,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 5135,
+      "confirmed": 5167,
       "deceased": 79,
       "other": 2,
-      "recovered": 5862
+      "recovered": 5879
     },
     "meta": {
-      "last_updated": "2021-01-26T20:10:10+05:30",
+      "last_updated": "2021-01-26T20:25:04+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-01-25",
@@ -8860,10 +8878,10 @@
       }
     },
     "total": {
-      "confirmed": 10682877,
+      "confirmed": 10682909,
       "deceased": 153703,
       "other": 4459,
-      "recovered": 10351169,
+      "recovered": 10351186,
       "tested": 193062694,
       "vaccinated": 2023809
     }
