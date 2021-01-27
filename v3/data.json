@@ -5173,6 +5173,7 @@
     "delta": {
       "confirmed": 6293,
       "deceased": 19,
+      "migrated": 1,
       "recovered": 5290,
       "tested": 60315
     },
@@ -5180,6 +5181,7 @@
       "Alappuzha": {
         "delta": {
           "confirmed": 481,
+          "deceased": 1,
           "recovered": 226
         },
         "meta": {
@@ -5187,7 +5189,7 @@
         },
         "total": {
           "confirmed": 66502,
-          "deceased": 292,
+          "deceased": 293,
           "migrated": 21,
           "recovered": 62560
         }
@@ -5195,6 +5197,8 @@
       "Ernakulam": {
         "delta": {
           "confirmed": 866,
+          "deceased": 7,
+          "migrated": 1,
           "recovered": 881
         },
         "meta": {
@@ -5202,8 +5206,8 @@
         },
         "total": {
           "confirmed": 103860,
-          "deceased": 373,
-          "migrated": 23,
+          "deceased": 380,
+          "migrated": 24,
           "recovered": 93005
         }
       },
@@ -5230,6 +5234,7 @@
       "Kannur": {
         "delta": {
           "confirmed": 305,
+          "deceased": 1,
           "recovered": 139
         },
         "meta": {
@@ -5241,8 +5246,8 @@
         },
         "total": {
           "confirmed": 45960,
-          "deceased": 243,
-          "migrated": 17,
+          "deceased": 244,
+          "migrated": 19,
           "recovered": 42115,
           "tested": 392136
         }
@@ -5265,6 +5270,7 @@
       "Kollam": {
         "delta": {
           "confirmed": 597,
+          "deceased": 2,
           "recovered": 333
         },
         "meta": {
@@ -5272,8 +5278,8 @@
         },
         "total": {
           "confirmed": 71204,
-          "deceased": 253,
-          "migrated": 19,
+          "deceased": 255,
+          "migrated": 20,
           "recovered": 66206
         }
       },
@@ -5295,6 +5301,7 @@
       "Kozhikode": {
         "delta": {
           "confirmed": 466,
+          "deceased": 3,
           "recovered": 475
         },
         "meta": {
@@ -5306,7 +5313,7 @@
         },
         "total": {
           "confirmed": 101307,
-          "deceased": 368,
+          "deceased": 371,
           "migrated": 20,
           "recovered": 94078,
           "tested": 955060
@@ -5315,6 +5322,7 @@
       "Malappuram": {
         "delta": {
           "confirmed": 511,
+          "deceased": 1,
           "recovered": 261
         },
         "meta": {
@@ -5326,7 +5334,7 @@
         },
         "total": {
           "confirmed": 103140,
-          "deceased": 382,
+          "deceased": 383,
           "migrated": 13,
           "recovered": 98448,
           "tested": 469850
@@ -5367,7 +5375,7 @@
         "total": {
           "confirmed": 42262,
           "deceased": 82,
-          "migrated": 7,
+          "migrated": 8,
           "recovered": 35732,
           "tested": 306034
         }
@@ -5375,6 +5383,7 @@
       "Thiruvananthapuram": {
         "delta": {
           "confirmed": 525,
+          "deceased": 2,
           "recovered": 372
         },
         "meta": {
@@ -5386,8 +5395,8 @@
         },
         "total": {
           "confirmed": 91157,
-          "deceased": 721,
-          "migrated": 78,
+          "deceased": 723,
+          "migrated": 79,
           "recovered": 86310,
           "tested": 436661
         }
@@ -5395,6 +5404,7 @@
       "Thrissur": {
         "delta": {
           "confirmed": 579,
+          "deceased": 2,
           "recovered": 485
         },
         "meta": {
@@ -5406,18 +5416,10 @@
         },
         "total": {
           "confirmed": 85388,
-          "deceased": 377,
+          "deceased": 379,
           "migrated": 11,
           "recovered": 79720,
           "tested": 639055
-        }
-      },
-      "Unknown": {
-        "delta": {
-          "deceased": 19
-        },
-        "total": {
-          "deceased": 19
         }
       },
       "Wayanad": {
@@ -5442,7 +5444,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-26T21:24:06+05:30",
+      "last_updated": "2021-01-27T07:10:02+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "population": 35125000,
       "tested": {
@@ -5453,7 +5455,7 @@
     "total": {
       "confirmed": 899933,
       "deceased": 3644,
-      "migrated": 234,
+      "migrated": 240,
       "recovered": 824446,
       "tested": 9349619
     }
@@ -11053,11 +11055,11 @@
     "delta": {
       "confirmed": 12537,
       "deceased": 127,
-      "migrated": 6,
+      "migrated": 7,
       "recovered": 13021
     },
     "meta": {
-      "last_updated": "2021-01-27T04:13:58+05:30",
+      "last_updated": "2021-01-27T07:10:00+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-01-25",
@@ -11067,7 +11069,7 @@
     "total": {
       "confirmed": 10690279,
       "deceased": 153751,
-      "migrated": 4463,
+      "migrated": 4469,
       "recovered": 10358328,
       "tested": 193062694
     }
