@@ -682,18 +682,19 @@
   "AS": {
     "delta": {
       "confirmed": 20,
-      "recovered": 102
+      "recovered": 102,
+      "tested": 16483
     },
     "districts": {
       "Unknown": {
         "delta": {
           "confirmed": 20,
-          "recovered": 102
+          "recovered": 102,
+          "tested": 16483
         },
         "meta": {
           "tested": {
-            "last_updated": "2021-01-28",
-            "source": "https://twitter.com/nhm_assam/status/1354816880343568389?s=20"
+            "last_updated": "2021-01-29"
           }
         },
         "total": {
@@ -701,7 +702,7 @@
           "deceased": 1081,
           "other": 1347,
           "recovered": 214054,
-          "tested": 6429030
+          "tested": 6445513
         }
       }
     },
@@ -710,8 +711,7 @@
       "notes": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count",
       "population": 34293000,
       "tested": {
-        "last_updated": "2021-01-28",
-        "source": "https://twitter.com/nhm_assam/status/1354816880343568389?s=20"
+        "last_updated": "2021-01-29"
       }
     },
     "total": {
@@ -719,7 +719,7 @@
       "deceased": 1081,
       "other": 1347,
       "recovered": 214054,
-      "tested": 6429030
+      "tested": 6445513
     }
   },
   "BR": {
@@ -2746,7 +2746,8 @@
   "HP": {
     "delta": {
       "confirmed": 44,
-      "recovered": 40
+      "recovered": 40,
+      "tested": 4588
     },
     "districts": {
       "Bilaspur": {
@@ -2969,8 +2970,7 @@
       "last_updated": "2021-01-30T05:50:13+05:30",
       "population": 7300000,
       "tested": {
-        "last_updated": "2021-01-28",
-        "source": "https://twitter.com/nhm_hp/status/1354819435966550031/photo/1"
+        "last_updated": "2021-01-29"
       }
     },
     "total": {
@@ -2978,7 +2978,7 @@
       "deceased": 962,
       "other": 16,
       "recovered": 56079,
-      "tested": 918838
+      "tested": 923426
     }
   },
   "HR": {
@@ -2992,19 +2992,20 @@
       "Ambala": {
         "delta": {
           "confirmed": 3,
-          "recovered": 4
+          "recovered": 4,
+          "tested": 4189
         },
         "meta": {
           "population": 1136784,
           "tested": {
-            "last_updated": "2021-01-21"
+            "last_updated": "2021-01-29"
           }
         },
         "total": {
           "confirmed": 11839,
           "deceased": 144,
           "recovered": 11619,
-          "tested": 201718
+          "tested": 205907
         }
       },
       "Bhiwani": {
@@ -3077,36 +3078,38 @@
       "Gurugram": {
         "delta": {
           "confirmed": 39,
-          "recovered": 43
+          "recovered": 43,
+          "tested": 2519
         },
         "meta": {
           "population": 1514085,
           "tested": {
-            "last_updated": "2021-01-28"
+            "last_updated": "2021-01-29"
           }
         },
         "total": {
           "confirmed": 58168,
           "deceased": 352,
           "recovered": 57436,
-          "tested": 737566
+          "tested": 740085
         }
       },
       "Hisar": {
         "delta": {
-          "recovered": 1
+          "recovered": 1,
+          "tested": 1131
         },
         "meta": {
           "population": 1742815,
           "tested": {
-            "last_updated": "2021-01-28"
+            "last_updated": "2021-01-29"
           }
         },
         "total": {
           "confirmed": 17083,
           "deceased": 323,
           "recovered": 16741,
-          "tested": 319902
+          "tested": 321033
         }
       },
       "Jhajjar": {
@@ -3164,37 +3167,39 @@
       "Karnal": {
         "delta": {
           "confirmed": 10,
-          "recovered": 15
+          "recovered": 15,
+          "tested": 725
         },
         "meta": {
           "population": 1506323,
           "tested": {
-            "last_updated": "2021-01-28"
+            "last_updated": "2021-01-29"
           }
         },
         "total": {
           "confirmed": 11131,
           "deceased": 153,
           "recovered": 10911,
-          "tested": 183592
+          "tested": 184317
         }
       },
       "Kurukshetra": {
         "delta": {
           "confirmed": 3,
-          "recovered": 7
+          "recovered": 7,
+          "tested": 704
         },
         "meta": {
           "population": 964231,
           "tested": {
-            "last_updated": "2021-01-28"
+            "last_updated": "2021-01-29"
           }
         },
         "total": {
           "confirmed": 8836,
           "deceased": 134,
           "recovered": 8655,
-          "tested": 198177
+          "tested": 198881
         }
       },
       "Mahendragarh": {
@@ -3233,17 +3238,20 @@
         }
       },
       "Palwal": {
+        "delta": {
+          "tested": 120
+        },
         "meta": {
           "population": 1040493,
           "tested": {
-            "last_updated": "2021-01-28"
+            "last_updated": "2021-01-29"
           }
         },
         "total": {
           "confirmed": 4422,
           "deceased": 30,
           "recovered": 4380,
-          "tested": 139508
+          "tested": 139628
         }
       },
       "Panchkula": {
@@ -3355,19 +3363,20 @@
       "Yamunanagar": {
         "delta": {
           "confirmed": 6,
-          "recovered": 11
+          "recovered": 11,
+          "tested": 1514
         },
         "meta": {
           "population": 1214162,
           "tested": {
-            "last_updated": "2021-01-27"
+            "last_updated": "2021-01-29"
           }
         },
         "total": {
           "confirmed": 6786,
           "deceased": 152,
           "recovered": 6566,
-          "tested": 194319
+          "tested": 195833
         }
       }
     },
@@ -4963,7 +4972,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-30T11:23:01+05:30",
+      "last_updated": "2021-01-30T11:40:03+05:30",
       "population": 68000,
       "tested": {
         "last_updated": "2021-01-25",
@@ -9776,7 +9785,7 @@
       "vaccinated": 571974
     },
     "meta": {
-      "last_updated": "2021-01-30T11:22:58+05:30",
+      "last_updated": "2021-01-30T11:40:00+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-01-29",
