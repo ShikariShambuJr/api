@@ -5661,18 +5661,27 @@
     }
   },
   "LD": {
+    "delta": {
+      "confirmed": 1,
+      "recovered": 14
+    },
     "districts": {
       "Lakshadweep": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 14
+        },
         "meta": {
           "population": 64473
         },
         "total": {
-          "confirmed": 69
+          "confirmed": 70,
+          "recovered": 14
         }
       }
     },
     "meta": {
-      "last_updated": "2021-01-27T11:21:58+05:30",
+      "last_updated": "2021-01-30T11:23:01+05:30",
       "population": 68000,
       "tested": {
         "last_updated": "2021-01-25",
@@ -5680,7 +5689,8 @@
       }
     },
     "total": {
-      "confirmed": 69,
+      "confirmed": 70,
+      "recovered": 14,
       "tested": 888
     }
   },
@@ -11333,25 +11343,26 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 13053,
+      "confirmed": 13054,
       "deceased": 137,
       "migrated": 14,
-      "recovered": 14872
+      "recovered": 14886,
+      "tested": 756329
     },
     "meta": {
-      "last_updated": "2021-01-30T06:57:59+05:30",
+      "last_updated": "2021-01-30T11:22:58+05:30",
       "population": 1332900000,
       "tested": {
-        "last_updated": "2021-01-28",
-        "source": "https://twitter.com/ICMRDELHI/status/1354990493608804352"
+        "last_updated": "2021-01-29",
+        "source": "http://twitter.com/ICMRDELHI/status/1355355884881231876"
       }
     },
     "total": {
-      "confirmed": 10734026,
+      "confirmed": 10734027,
       "deceased": 154184,
       "migrated": 4492,
-      "recovered": 10408034,
-      "tested": 195081079
+      "recovered": 10408048,
+      "tested": 195837408
     }
   },
   "UN": {
