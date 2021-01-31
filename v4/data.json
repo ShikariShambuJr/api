@@ -4702,8 +4702,16 @@
     }
   },
   "MN": {
+    "delta": {
+      "confirmed": 16,
+      "recovered": 8
+    },
     "districts": {
       "Unknown": {
+        "delta": {
+          "confirmed": 16,
+          "recovered": 8
+        },
         "meta": {
           "tested": {
             "last_updated": "2021-01-30",
@@ -4711,15 +4719,15 @@
           }
         },
         "total": {
-          "confirmed": 29052,
+          "confirmed": 29068,
           "deceased": 371,
-          "recovered": 28545,
+          "recovered": 28553,
           "tested": 513812
         }
       }
     },
     "meta": {
-      "last_updated": "2021-01-30T22:10:13+05:30",
+      "last_updated": "2021-01-31T19:15:11+05:30",
       "notes": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "population": 3103000,
       "tested": {
@@ -4728,9 +4736,9 @@
       }
     },
     "total": {
-      "confirmed": 29052,
+      "confirmed": 29068,
       "deceased": 371,
-      "recovered": 28545,
+      "recovered": 28553,
       "tested": 513812
     }
   },
@@ -5460,13 +5468,13 @@
   "MZ": {
     "delta": {
       "confirmed": 6,
-      "recovered": 1
+      "recovered": 8
     },
     "districts": {
       "Aizawl": {
         "delta": {
           "confirmed": 5,
-          "recovered": 1
+          "recovered": 7
         },
         "meta": {
           "population": 404054
@@ -5474,7 +5482,7 @@
         "total": {
           "confirmed": 2871,
           "deceased": 8,
-          "recovered": 2832
+          "recovered": 2838
         }
       },
       "Champhai": {
@@ -5500,14 +5508,15 @@
       },
       "Kolasib": {
         "delta": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 1
         },
         "meta": {
           "population": 83054
         },
         "total": {
           "confirmed": 295,
-          "recovered": 292
+          "recovered": 293
         }
       },
       "Lawngtlai": {
@@ -5564,7 +5573,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-31T11:15:01+05:30",
+      "last_updated": "2021-01-31T19:15:17+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2021-01-30",
@@ -5574,11 +5583,15 @@
     "total": {
       "confirmed": 4372,
       "deceased": 9,
-      "recovered": 4323,
+      "recovered": 4330,
       "tested": 206095
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 4,
+      "other": 1
+    },
     "districts": {
       "Dimapur": {
         "meta": {
@@ -5610,6 +5623,10 @@
         }
       },
       "Kohima": {
+        "delta": {
+          "confirmed": 4,
+          "other": 1
+        },
         "meta": {
           "population": 270063,
           "tested": {
@@ -5617,9 +5634,9 @@
           }
         },
         "total": {
-          "confirmed": 3781,
+          "confirmed": 3785,
           "deceased": 21,
-          "other": 38,
+          "other": 39,
           "recovered": 3680,
           "tested": 33986
         }
@@ -5741,7 +5758,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-30T06:58:18+05:30",
+      "last_updated": "2021-01-31T19:15:14+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2021-01-30",
@@ -5749,9 +5766,9 @@
       }
     },
     "total": {
-      "confirmed": 12090,
+      "confirmed": 12094,
       "deceased": 88,
-      "other": 143,
+      "other": 144,
       "recovered": 11806,
       "tested": 124820
     }
@@ -7930,12 +7947,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 283,
+      "confirmed": 303,
       "deceased": 1,
-      "recovered": 277
+      "other": 1,
+      "recovered": 292
     },
     "meta": {
-      "last_updated": "2021-01-31T11:43:03+05:30",
+      "last_updated": "2021-01-31T19:15:07+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-01-30",
@@ -7947,10 +7965,10 @@
       }
     },
     "total": {
-      "confirmed": 10747383,
+      "confirmed": 10747403,
       "deceased": 154313,
-      "other": 4494,
-      "recovered": 10422402,
+      "other": 4495,
+      "recovered": 10422417,
       "tested": 196588372,
       "vaccinated": 3744334
     }
