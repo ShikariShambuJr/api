@@ -4046,7 +4046,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-31T10:36:04+05:30",
+      "last_updated": "2021-01-31T10:53:07+05:30",
       "population": 68000,
       "tested": {
         "last_updated": "2021-01-25",
@@ -5466,15 +5466,23 @@
     }
   },
   "MZ": {
+    "delta": {
+      "confirmed": 6,
+      "recovered": 1
+    },
     "districts": {
       "Aizawl": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 1
+        },
         "meta": {
           "population": 404054
         },
         "total": {
-          "confirmed": 2866,
+          "confirmed": 2871,
           "deceased": 8,
-          "recovered": 2831
+          "recovered": 2832
         }
       },
       "Champhai": {
@@ -5499,11 +5507,14 @@
         }
       },
       "Kolasib": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 83054
         },
         "total": {
-          "confirmed": 294,
+          "confirmed": 295,
           "recovered": 292
         }
       },
@@ -5561,7 +5572,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-30T22:10:17+05:30",
+      "last_updated": "2021-01-31T11:05:02+05:30",
       "population": 1192000,
       "tested": {
         "last_updated": "2021-01-30",
@@ -5569,9 +5580,9 @@
       }
     },
     "total": {
-      "confirmed": 4366,
+      "confirmed": 4372,
       "deceased": 9,
-      "recovered": 4322,
+      "recovered": 4323,
       "tested": 206095
     }
   },
@@ -7152,7 +7163,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-31T10:36:01+05:30",
+      "last_updated": "2021-01-31T10:53:02+05:30",
       "notes": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.\n--\nDistrict-wise numbers are not reported because cumulative counts for each district are not provided in Telangana bulletin",
       "population": 37220000,
       "tested": {
@@ -7862,12 +7873,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 172,
+      "confirmed": 178,
       "deceased": 1,
-      "recovered": 292
+      "recovered": 293
     },
     "meta": {
-      "last_updated": "2021-01-31T10:35:59+05:30",
+      "last_updated": "2021-01-31T11:04:59+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-01-29",
@@ -7879,10 +7890,10 @@
       }
     },
     "total": {
-      "confirmed": 10747263,
+      "confirmed": 10747269,
       "deceased": 154313,
       "other": 4494,
-      "recovered": 10422401,
+      "recovered": 10422402,
       "tested": 195837408,
       "vaccinated": 3500027
     }
