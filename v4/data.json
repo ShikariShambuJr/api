@@ -299,6 +299,9 @@
     }
   },
   "AR": {
+    "delta": {
+      "recovered": 1
+    },
     "districts": {
       "Anjaw": {
         "meta": {
@@ -351,6 +354,9 @@
         }
       },
       "East Siang": {
+        "delta": {
+          "recovered": 1
+        },
         "meta": {
           "population": 99019,
           "tested": {
@@ -358,9 +364,9 @@
           }
         },
         "total": {
-          "confirmed": 1143,
+          "confirmed": 1144,
           "deceased": 4,
-          "recovered": 1138,
+          "recovered": 1139,
           "tested": 21867
         }
       },
@@ -575,11 +581,6 @@
           "tested": 14657
         }
       },
-      "Unknown": {
-        "total": {
-          "confirmed": 1
-        }
-      },
       "Upper Dibang Valley": {
         "meta": {
           "population": 7948,
@@ -650,7 +651,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-31T02:26:09+05:30",
+      "last_updated": "2021-02-01T03:01:06+05:30",
       "notes": "[July 25]: All numbers corresponding to Papum Pare and Captial Complex are tracked under Papum Pare district.",
       "population": 1504000,
       "tested": {
@@ -660,7 +661,7 @@
     "total": {
       "confirmed": 16828,
       "deceased": 56,
-      "recovered": 16758,
+      "recovered": 16759,
       "tested": 392143
     }
   },
@@ -693,7 +694,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-01T02:40:04+05:30",
+      "last_updated": "2021-02-01T02:59:05+05:30",
       "notes": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count",
       "population": 34293000,
       "tested": {
@@ -3323,7 +3324,7 @@
   },
   "JH": {
     "delta": {
-      "confirmed": 40,
+      "confirmed": 41,
       "deceased": 1,
       "recovered": 63,
       "tested": 8158
@@ -3456,11 +3457,14 @@
         }
       },
       "Gumla": {
+        "delta": {
+          "confirmed": 1
+        },
         "meta": {
           "population": 1025656
         },
         "total": {
-          "confirmed": 2327,
+          "confirmed": 2328,
           "deceased": 6,
           "recovered": 2282
         }
@@ -3644,7 +3648,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-31T00:28:16+05:30",
+      "last_updated": "2021-02-01T03:01:04+05:30",
       "population": 37403000,
       "tested": {
         "last_updated": "2021-01-31",
@@ -3652,7 +3656,7 @@
       }
     },
     "total": {
-      "confirmed": 118691,
+      "confirmed": 118692,
       "deceased": 1072,
       "recovered": 117067,
       "tested": 5217119
@@ -4515,6 +4519,9 @@
   },
   "KL": {
     "delta": {
+      "confirmed": 5266,
+      "deceased": 21,
+      "recovered": 5730,
       "tested": 49118
     },
     "districts": {
@@ -4693,6 +4700,18 @@
           "tested": 639055
         }
       },
+      "Unknown": {
+        "delta": {
+          "confirmed": 5266,
+          "deceased": 21,
+          "recovered": 5730
+        },
+        "total": {
+          "confirmed": 5266,
+          "deceased": 21,
+          "recovered": 5730
+        }
+      },
       "Wayanad": {
         "meta": {
           "population": 816558,
@@ -4710,7 +4729,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-01-30T19:10:02+05:30",
+      "last_updated": "2021-02-01T03:01:02+05:30",
       "notes": "Mahe native who expired in Kannur included in Kerala's deceased tally.\nSome non-covid deaths have also been reported in the bulletin.\nThese have been reduced from active count",
       "population": 35125000,
       "tested": {
@@ -4719,14 +4738,18 @@
       }
     },
     "total": {
-      "confirmed": 923913,
-      "deceased": 3723,
+      "confirmed": 929179,
+      "deceased": 3744,
       "other": 240,
-      "recovered": 848476,
+      "recovered": 854206,
       "tested": 9625913
     }
   },
   "LA": {
+    "delta": {
+      "confirmed": 1,
+      "recovered": 4
+    },
     "districts": {
       "Kargil": {
         "meta": {
@@ -4743,6 +4766,10 @@
         }
       },
       "Leh": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 4
+        },
         "meta": {
           "population": 147000,
           "tested": {
@@ -4750,15 +4777,15 @@
           }
         },
         "total": {
-          "confirmed": 7613,
+          "confirmed": 7614,
           "deceased": 86,
-          "recovered": 7460,
+          "recovered": 7464,
           "tested": 72597
         }
       }
     },
     "meta": {
-      "last_updated": "2021-01-31T00:28:22+05:30",
+      "last_updated": "2021-02-01T03:01:08+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2021-01-14",
@@ -4766,9 +4793,9 @@
       }
     },
     "total": {
-      "confirmed": 9719,
+      "confirmed": 9720,
       "deceased": 130,
-      "recovered": 9519,
+      "recovered": 9523,
       "tested": 110068
     }
   },
@@ -6563,7 +6590,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-01T02:40:02+05:30",
+      "last_updated": "2021-02-01T02:59:04+05:30",
       "notes": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "population": 82232000,
       "tested": {
@@ -7803,7 +7830,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-01T02:40:06+05:30",
+      "last_updated": "2021-02-01T02:59:07+05:30",
       "population": 29859000,
       "tested": {
         "last_updated": "2021-01-30",
@@ -9453,13 +9480,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 6251,
-      "deceased": 95,
+      "confirmed": 11519,
+      "deceased": 116,
       "other": 5,
-      "recovered": 6128
+      "recovered": 11863
     },
     "meta": {
-      "last_updated": "2021-02-01T02:41:00+05:30",
+      "last_updated": "2021-02-01T03:00:59+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-01-30",
@@ -9471,10 +9498,10 @@
       }
     },
     "total": {
-      "confirmed": 10753351,
-      "deceased": 154407,
+      "confirmed": 10758619,
+      "deceased": 154428,
       "other": 4499,
-      "recovered": 10428253,
+      "recovered": 10433988,
       "tested": 196588372,
       "vaccinated": 3744334
     }
