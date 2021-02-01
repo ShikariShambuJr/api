@@ -4852,6 +4852,10 @@
     }
   },
   "LA": {
+    "delta": {
+      "confirmed": 4,
+      "recovered": 3
+    },
     "districts": {
       "Kargil": {
         "meta": {
@@ -4868,6 +4872,10 @@
         }
       },
       "Leh": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 3
+        },
         "meta": {
           "population": 147000,
           "tested": {
@@ -4875,15 +4883,15 @@
           }
         },
         "total": {
-          "confirmed": 7614,
+          "confirmed": 7618,
           "deceased": 86,
-          "recovered": 7464,
+          "recovered": 7467,
           "tested": 72597
         }
       }
     },
     "meta": {
-      "last_updated": "2021-02-01T03:14:06+05:30",
+      "last_updated": "2021-02-02T00:33:07+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2021-01-14",
@@ -4891,9 +4899,9 @@
       }
     },
     "total": {
-      "confirmed": 9720,
+      "confirmed": 9724,
       "deceased": 130,
-      "recovered": 9523,
+      "recovered": 9526,
       "tested": 110068,
       "vaccinated": 1128
     }
@@ -8696,8 +8704,16 @@
     }
   },
   "SK": {
+    "delta": {
+      "confirmed": 1,
+      "recovered": 4
+    },
     "districts": {
       "Unknown": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 4
+        },
         "meta": {
           "tested": {
             "last_updated": "2021-01-31",
@@ -8705,16 +8721,16 @@
           }
         },
         "total": {
-          "confirmed": 6090,
+          "confirmed": 6091,
           "deceased": 133,
           "other": 95,
-          "recovered": 5775,
+          "recovered": 5779,
           "tested": 74692
         }
       }
     },
     "meta": {
-      "last_updated": "2021-01-31T21:18:15+05:30",
+      "last_updated": "2021-02-02T00:33:10+05:30",
       "notes": "District-wise numbers are not reported because cumulative counts for each district are not provided in Sikkim bulletin",
       "population": 664000,
       "tested": {
@@ -8723,10 +8739,10 @@
       }
     },
     "total": {
-      "confirmed": 6090,
+      "confirmed": 6091,
       "deceased": 133,
       "other": 95,
-      "recovered": 5775,
+      "recovered": 5779,
       "tested": 74692,
       "vaccinated": 2020
     }
@@ -9659,13 +9675,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 8574,
+      "confirmed": 8579,
       "deceased": 94,
       "other": 7,
-      "recovered": 13436
+      "recovered": 13443
     },
     "meta": {
-      "last_updated": "2021-02-01T23:42:59+05:30",
+      "last_updated": "2021-02-02T00:33:04+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-01-31",
@@ -9677,10 +9693,10 @@
       }
     },
     "total": {
-      "confirmed": 10767201,
+      "confirmed": 10767206,
       "deceased": 154522,
       "other": 4506,
-      "recovered": 10447443,
+      "recovered": 10447450,
       "tested": 197092635,
       "vaccinated": 3758843
     }
