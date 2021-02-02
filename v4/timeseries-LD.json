@@ -5,11 +5,17 @@
         "delta": {
           "vaccinated": 21
         },
+        "delta7": {
+          "vaccinated": 21
+        },
         "total": {
           "vaccinated": 21
         }
       },
       "2021-01-17": {
+        "delta7": {
+          "vaccinated": 21
+        },
         "total": {
           "vaccinated": 21
         }
@@ -18,6 +24,10 @@
         "delta": {
           "confirmed": 14,
           "vaccinated": 180
+        },
+        "delta7": {
+          "confirmed": 14,
+          "vaccinated": 201
         },
         "total": {
           "confirmed": 14,
@@ -29,6 +39,10 @@
           "confirmed": 7,
           "vaccinated": 168
         },
+        "delta7": {
+          "confirmed": 21,
+          "vaccinated": 369
+        },
         "total": {
           "confirmed": 21,
           "vaccinated": 369
@@ -37,6 +51,10 @@
       "2021-01-20": {
         "delta": {
           "confirmed": 9
+        },
+        "delta7": {
+          "confirmed": 30,
+          "vaccinated": 369
         },
         "total": {
           "confirmed": 30,
@@ -47,6 +65,11 @@
         "delta": {
           "confirmed": 18,
           "tested": 524
+        },
+        "delta7": {
+          "confirmed": 48,
+          "tested": 524,
+          "vaccinated": 369
         },
         "total": {
           "confirmed": 48,
@@ -59,6 +82,11 @@
           "confirmed": 2,
           "vaccinated": 183
         },
+        "delta7": {
+          "confirmed": 50,
+          "tested": 524,
+          "vaccinated": 552
+        },
         "total": {
           "confirmed": 50,
           "tested": 524,
@@ -70,6 +98,11 @@
           "confirmed": 7,
           "vaccinated": 81
         },
+        "delta7": {
+          "confirmed": 57,
+          "tested": 524,
+          "vaccinated": 612
+        },
         "total": {
           "confirmed": 57,
           "tested": 524,
@@ -79,6 +112,11 @@
       "2021-01-24": {
         "delta": {
           "tested": 163
+        },
+        "delta7": {
+          "confirmed": 57,
+          "tested": 687,
+          "vaccinated": 612
         },
         "total": {
           "confirmed": 57,
@@ -92,6 +130,11 @@
           "tested": 201,
           "vaccinated": 43
         },
+        "delta7": {
+          "confirmed": 53,
+          "tested": 888,
+          "vaccinated": 475
+        },
         "total": {
           "confirmed": 67,
           "tested": 888,
@@ -101,6 +144,11 @@
       "2021-01-26": {
         "delta": {
           "confirmed": 2
+        },
+        "delta7": {
+          "confirmed": 48,
+          "tested": 888,
+          "vaccinated": 307
         },
         "total": {
           "confirmed": 69,
@@ -112,6 +160,11 @@
         "delta": {
           "vaccinated": 70
         },
+        "delta7": {
+          "confirmed": 39,
+          "tested": 888,
+          "vaccinated": 377
+        },
         "total": {
           "confirmed": 69,
           "tested": 888,
@@ -119,6 +172,11 @@
         }
       },
       "2021-01-28": {
+        "delta7": {
+          "confirmed": 21,
+          "tested": 364,
+          "vaccinated": 377
+        },
         "total": {
           "confirmed": 69,
           "tested": 888,
@@ -129,6 +187,12 @@
         "delta": {
           "confirmed": 1,
           "recovered": 14
+        },
+        "delta7": {
+          "confirmed": 20,
+          "recovered": 14,
+          "tested": 364,
+          "vaccinated": 194
         },
         "total": {
           "confirmed": 70,
@@ -143,6 +207,12 @@
           "recovered": 16,
           "vaccinated": 61
         },
+        "delta7": {
+          "confirmed": 22,
+          "recovered": 30,
+          "tested": 364,
+          "vaccinated": 174
+        },
         "total": {
           "confirmed": 79,
           "recovered": 30,
@@ -156,6 +226,12 @@
           "recovered": 19,
           "tested": 1440
         },
+        "delta7": {
+          "confirmed": 30,
+          "recovered": 49,
+          "tested": 1641,
+          "vaccinated": 174
+        },
         "total": {
           "confirmed": 87,
           "recovered": 49,
@@ -168,6 +244,12 @@
           "confirmed": 12,
           "recovered": 7,
           "tested": 591
+        },
+        "delta7": {
+          "confirmed": 32,
+          "recovered": 56,
+          "tested": 2031,
+          "vaccinated": 131
         },
         "total": {
           "confirmed": 99,
@@ -184,6 +266,9 @@
             "delta": {
               "confirmed": 14
             },
+            "delta7": {
+              "confirmed": 14
+            },
             "total": {
               "confirmed": 14
             }
@@ -191,6 +276,9 @@
           "2021-01-19": {
             "delta": {
               "confirmed": 7
+            },
+            "delta7": {
+              "confirmed": 21
             },
             "total": {
               "confirmed": 21
@@ -200,6 +288,9 @@
             "delta": {
               "confirmed": 9
             },
+            "delta7": {
+              "confirmed": 30
+            },
             "total": {
               "confirmed": 30
             }
@@ -207,6 +298,10 @@
           "2021-01-21": {
             "delta": {
               "confirmed": 18,
+              "tested": 524
+            },
+            "delta7": {
+              "confirmed": 48,
               "tested": 524
             },
             "total": {
@@ -218,6 +313,10 @@
             "delta": {
               "confirmed": 2
             },
+            "delta7": {
+              "confirmed": 50,
+              "tested": 524
+            },
             "total": {
               "confirmed": 50,
               "tested": 524
@@ -227,6 +326,10 @@
             "delta": {
               "confirmed": 7
             },
+            "delta7": {
+              "confirmed": 57,
+              "tested": 524
+            },
             "total": {
               "confirmed": 57,
               "tested": 524
@@ -235,6 +338,10 @@
           "2021-01-24": {
             "delta": {
               "tested": 163
+            },
+            "delta7": {
+              "confirmed": 57,
+              "tested": 687
             },
             "total": {
               "confirmed": 57,
@@ -246,6 +353,10 @@
               "confirmed": 10,
               "tested": 201
             },
+            "delta7": {
+              "confirmed": 53,
+              "tested": 888
+            },
             "total": {
               "confirmed": 67,
               "tested": 888
@@ -255,18 +366,30 @@
             "delta": {
               "confirmed": 2
             },
+            "delta7": {
+              "confirmed": 48,
+              "tested": 888
+            },
             "total": {
               "confirmed": 69,
               "tested": 888
             }
           },
           "2021-01-27": {
+            "delta7": {
+              "confirmed": 39,
+              "tested": 888
+            },
             "total": {
               "confirmed": 69,
               "tested": 888
             }
           },
           "2021-01-28": {
+            "delta7": {
+              "confirmed": 21,
+              "tested": 364
+            },
             "total": {
               "confirmed": 69,
               "tested": 888
@@ -276,6 +399,11 @@
             "delta": {
               "confirmed": 1,
               "recovered": 14
+            },
+            "delta7": {
+              "confirmed": 20,
+              "recovered": 14,
+              "tested": 364
             },
             "total": {
               "confirmed": 70,
@@ -287,6 +415,11 @@
             "delta": {
               "confirmed": 9,
               "recovered": 16
+            },
+            "delta7": {
+              "confirmed": 22,
+              "recovered": 30,
+              "tested": 364
             },
             "total": {
               "confirmed": 79,
@@ -300,6 +433,11 @@
               "recovered": 19,
               "tested": 1440
             },
+            "delta7": {
+              "confirmed": 30,
+              "recovered": 49,
+              "tested": 1641
+            },
             "total": {
               "confirmed": 87,
               "recovered": 49,
@@ -311,6 +449,11 @@
               "confirmed": 12,
               "recovered": 7,
               "tested": 591
+            },
+            "delta7": {
+              "confirmed": 32,
+              "recovered": 56,
+              "tested": 2031
             },
             "total": {
               "confirmed": 99,

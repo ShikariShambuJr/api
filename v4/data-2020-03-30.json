@@ -3,10 +3,16 @@
     "delta": {
       "confirmed": 1
     },
+    "delta7": {
+      "confirmed": 10
+    },
     "districts": {
       "Unknown": {
         "delta": {
           "confirmed": 1
+        },
+        "delta7": {
+          "confirmed": 10
         },
         "total": {
           "confirmed": 10
@@ -24,6 +30,10 @@
     "delta": {
       "confirmed": 2
     },
+    "delta7": {
+      "confirmed": 16,
+      "recovered": 1
+    },
     "meta": {
       "population": 52221000
     },
@@ -33,6 +43,10 @@
     }
   },
   "BR": {
+    "delta7": {
+      "confirmed": 12,
+      "deceased": 1
+    },
     "meta": {
       "population": 119520000
     },
@@ -45,10 +59,16 @@
     "delta": {
       "confirmed": 5
     },
+    "delta7": {
+      "confirmed": 6
+    },
     "districts": {
       "Chandigarh": {
         "delta": {
           "confirmed": 5
+        },
+        "delta7": {
+          "confirmed": 6
         },
         "meta": {
           "population": 1055450
@@ -69,6 +89,9 @@
     "delta": {
       "confirmed": 1
     },
+    "delta7": {
+      "confirmed": 7
+    },
     "meta": {
       "population": 28724000
     },
@@ -80,10 +103,20 @@
     "delta": {
       "confirmed": 25
     },
+    "delta7": {
+      "confirmed": 67,
+      "deceased": 2,
+      "recovered": 6
+    },
     "districts": {
       "Delhi": {
         "delta": {
           "confirmed": 25
+        },
+        "delta7": {
+          "confirmed": 67,
+          "deceased": 2,
+          "recovered": 6
         },
         "meta": {
           "population": 19814000
@@ -105,8 +138,14 @@
     }
   },
   "GA": {
+    "delta7": {
+      "confirmed": 5
+    },
     "districts": {
       "Unknown": {
+        "delta7": {
+          "confirmed": 5
+        },
         "total": {
           "confirmed": 5
         }
@@ -125,6 +164,11 @@
       "deceased": 1,
       "recovered": 2
     },
+    "delta7": {
+      "confirmed": 40,
+      "deceased": 6,
+      "recovered": 3
+    },
     "meta": {
       "population": 67936000
     },
@@ -135,6 +179,10 @@
     }
   },
   "HP": {
+    "delta7": {
+      "deceased": 1,
+      "recovered": 1
+    },
     "meta": {
       "population": 7300000
     },
@@ -150,6 +198,10 @@
       "confirmed": 1,
       "recovered": 6
     },
+    "delta7": {
+      "confirmed": 8,
+      "recovered": 20
+    },
     "meta": {
       "population": 28672000
     },
@@ -161,6 +213,11 @@
   "JK": {
     "delta": {
       "confirmed": 11
+    },
+    "delta7": {
+      "confirmed": 45,
+      "deceased": 1,
+      "recovered": 1
     },
     "meta": {
       "population": 13203000
@@ -176,6 +233,11 @@
       "confirmed": 5,
       "recovered": 1
     },
+    "delta7": {
+      "confirmed": 55,
+      "deceased": 2,
+      "recovered": 5
+    },
     "meta": {
       "population": 65798000
     },
@@ -189,6 +251,11 @@
     "delta": {
       "confirmed": 32
     },
+    "delta7": {
+      "confirmed": 139,
+      "deceased": 1,
+      "recovered": 17
+    },
     "meta": {
       "population": 35125000
     },
@@ -199,6 +266,9 @@
     }
   },
   "LA": {
+    "delta7": {
+      "recovered": 3
+    },
     "meta": {
       "population": 293000
     },
@@ -213,6 +283,11 @@
       "deceased": 2,
       "recovered": 14
     },
+    "delta7": {
+      "confirmed": 131,
+      "deceased": 10,
+      "recovered": 39
+    },
     "meta": {
       "population": 122153000
     },
@@ -223,8 +298,14 @@
     }
   },
   "MN": {
+    "delta7": {
+      "confirmed": 1
+    },
     "districts": {
       "Unknown": {
+        "delta7": {
+          "confirmed": 1
+        },
         "total": {
           "confirmed": 1
         }
@@ -242,6 +323,10 @@
       "confirmed": 8,
       "deceased": 2
     },
+    "delta7": {
+      "confirmed": 41,
+      "deceased": 4
+    },
     "meta": {
       "population": 82232000
     },
@@ -251,6 +336,9 @@
     }
   },
   "MZ": {
+    "delta7": {
+      "confirmed": 1
+    },
     "meta": {
       "population": 1192000
     },
@@ -259,6 +347,9 @@
     }
   },
   "OR": {
+    "delta7": {
+      "confirmed": 1
+    },
     "meta": {
       "population": 43671000
     },
@@ -270,6 +361,11 @@
     "delta": {
       "confirmed": 3,
       "deceased": 2
+    },
+    "delta7": {
+      "confirmed": 18,
+      "deceased": 3,
+      "recovered": 1
     },
     "meta": {
       "population": 29859000,
@@ -297,6 +393,10 @@
     "delta": {
       "confirmed": 20
     },
+    "delta7": {
+      "confirmed": 47,
+      "recovered": 3
+    },
     "meta": {
       "population": 77264000
     },
@@ -311,12 +411,22 @@
       "deceased": 5,
       "recovered": 13
     },
+    "delta7": {
+      "confirmed": 44,
+      "deceased": 6,
+      "recovered": 14
+    },
     "districts": {
       "Unknown": {
         "delta": {
           "confirmed": 7,
           "deceased": 5,
           "recovered": 13
+        },
+        "delta7": {
+          "confirmed": 44,
+          "deceased": 6,
+          "recovered": 14
         },
         "total": {
           "confirmed": 77,
@@ -338,6 +448,11 @@
     "delta": {
       "confirmed": 17
     },
+    "delta7": {
+      "confirmed": 55,
+      "deceased": 1,
+      "recovered": 4
+    },
     "meta": {
       "population": 75695000
     },
@@ -353,6 +468,12 @@
       "deceased": 13,
       "recovered": 42,
       "tested": 10754
+    },
+    "delta7": {
+      "confirmed": 829,
+      "deceased": 40,
+      "recovered": 137,
+      "tested": 17735
     },
     "meta": {
       "population": 1332900000,
@@ -374,6 +495,10 @@
       "confirmed": 24,
       "recovered": 6
     },
+    "delta7": {
+      "confirmed": 62,
+      "recovered": 17
+    },
     "meta": {
       "population": 224979000
     },
@@ -383,6 +508,10 @@
     }
   },
   "UT": {
+    "delta7": {
+      "confirmed": 3,
+      "recovered": 2
+    },
     "meta": {
       "population": 11141000
     },
@@ -395,6 +524,10 @@
     "delta": {
       "confirmed": 1,
       "deceased": 1
+    },
+    "delta7": {
+      "confirmed": 15,
+      "deceased": 2
     },
     "meta": {
       "population": 96906000
