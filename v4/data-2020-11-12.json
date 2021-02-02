@@ -58,12 +58,14 @@
     "delta": {
       "confirmed": 1728,
       "deceased": 9,
-      "recovered": 1777
+      "recovered": 1777,
+      "tested": 77148
     },
     "delta7": {
       "confirmed": 13752,
       "deceased": 80,
-      "recovered": 14693
+      "recovered": 14693,
+      "tested": 512859
     },
     "districts": {
       "Anantapur": {
@@ -396,24 +398,31 @@
       }
     },
     "meta": {
-      "population": 52221000
+      "population": 52221000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://twitter.com/ArogyaAndhra/status/1326871260211552257?s=20"
+      }
     },
     "total": {
       "confirmed": 849705,
       "deceased": 6837,
-      "recovered": 822011
+      "recovered": 822011,
+      "tested": 8940488
     }
   },
   "AR": {
     "delta": {
       "confirmed": 44,
       "deceased": 1,
-      "recovered": 88
+      "recovered": 88,
+      "tested": 1207
     },
     "delta7": {
       "confirmed": 457,
       "deceased": 4,
-      "recovered": 634
+      "recovered": 634,
+      "tested": 11675
     },
     "districts": {
       "Anjaw": {
@@ -967,65 +976,88 @@
       }
     },
     "meta": {
-      "population": 1504000
+      "population": 1504000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://twitter.com/DirectorateofHS/status/1326930146650042368"
+      }
     },
     "total": {
       "confirmed": 15701,
       "deceased": 47,
-      "recovered": 14214
+      "recovered": 14214,
+      "tested": 339487
     }
   },
   "AS": {
     "delta": {
       "confirmed": 202,
       "deceased": 3,
-      "recovered": 771
+      "recovered": 771,
+      "tested": 24350
     },
     "delta7": {
       "confirmed": 1781,
       "deceased": 23,
-      "recovered": 4621
+      "recovered": 4621,
+      "tested": 165638
     },
     "districts": {
       "Unknown": {
         "delta": {
           "confirmed": 202,
           "deceased": 3,
-          "recovered": 771
+          "recovered": 771,
+          "tested": 24350
         },
         "delta7": {
           "confirmed": 1781,
           "deceased": 23,
-          "recovered": 4621
+          "recovered": 4621,
+          "tested": 165638
+        },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-11-12",
+            "source": "https://twitter.com/himantabiswa/status/1326907129538768897?s=20"
+          }
         },
         "total": {
           "confirmed": 209835,
           "deceased": 957,
           "other": 3,
-          "recovered": 204076
+          "recovered": 204076,
+          "tested": 4951256
         }
       }
     },
     "meta": {
-      "population": 34293000
+      "population": 34293000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://twitter.com/himantabiswa/status/1326907129538768897?s=20"
+      }
     },
     "total": {
       "confirmed": 209835,
       "deceased": 957,
       "other": 3,
-      "recovered": 204076
+      "recovered": 204076,
+      "tested": 4951256
     }
   },
   "BR": {
     "delta": {
       "confirmed": 523,
       "deceased": 5,
-      "recovered": 536
+      "recovered": 536,
+      "tested": 135320
     },
     "delta7": {
       "confirmed": 5254,
       "deceased": 46,
-      "recovered": 5660
+      "recovered": 5660,
+      "tested": 908884
     },
     "districts": {
       "Araria": {
@@ -1943,67 +1975,88 @@
       }
     },
     "meta": {
-      "population": 119520000
+      "population": 119520000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://twitter.com/BiharHealthDept/status/1326857301945249793?s=20"
+      }
     },
     "total": {
       "confirmed": 225500,
       "deceased": 1167,
       "other": 1,
-      "recovered": 217958
+      "recovered": 217958,
+      "tested": 12510088
     }
   },
   "CH": {
     "delta": {
       "confirmed": 109,
       "deceased": 1,
-      "recovered": 64
+      "recovered": 64,
+      "tested": 1046
     },
     "delta7": {
       "confirmed": 749,
       "deceased": 15,
-      "recovered": 435
+      "recovered": 435,
+      "tested": 8290
     },
     "districts": {
       "Chandigarh": {
         "delta": {
           "confirmed": 109,
           "deceased": 1,
-          "recovered": 64
+          "recovered": 64,
+          "tested": 1046
         },
         "delta7": {
           "confirmed": 749,
           "deceased": 15,
-          "recovered": 435
+          "recovered": 435,
+          "tested": 8290
         },
         "meta": {
-          "population": 1055450
+          "population": 1055450,
+          "tested": {
+            "last_updated": "2020-11-12",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3665"
+          }
         },
         "total": {
           "confirmed": 15543,
           "deceased": 244,
-          "recovered": 14297
+          "recovered": 14297,
+          "tested": 120681
         }
       }
     },
     "meta": {
-      "population": 1179000
+      "population": 1179000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3665"
+      }
     },
     "total": {
       "confirmed": 15543,
       "deceased": 244,
-      "recovered": 14297
+      "recovered": 14297,
+      "tested": 120681
     }
   },
   "CT": {
     "delta": {
       "confirmed": 1817,
       "deceased": 20,
-      "recovered": 1962
+      "recovered": 1962,
+      "tested": 26310
     },
     "delta7": {
       "confirmed": 11507,
       "deceased": 167,
-      "recovered": 14392
+      "recovered": 14392,
+      "tested": 174712
     },
     "districts": {
       "Balod": {
@@ -2678,54 +2731,73 @@
       }
     },
     "meta": {
-      "population": 28724000
+      "population": 28724000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3687"
+      }
     },
     "total": {
       "confirmed": 207740,
       "deceased": 2527,
-      "recovered": 185152
+      "recovered": 185152,
+      "tested": 2094950
     }
   },
   "DL": {
     "delta": {
       "confirmed": 7053,
       "deceased": 104,
-      "recovered": 6462
+      "recovered": 6462,
+      "tested": 60229
     },
     "delta7": {
       "confirmed": 50375,
       "deceased": 563,
-      "recovered": 45425
+      "recovered": 45425,
+      "tested": 389547
     },
     "districts": {
       "Delhi": {
         "delta": {
           "confirmed": 7053,
           "deceased": 104,
-          "recovered": 6462
+          "recovered": 6462,
+          "tested": 60229
         },
         "delta7": {
           "confirmed": 50375,
           "deceased": 563,
-          "recovered": 45425
+          "recovered": 45425,
+          "tested": 389547
         },
         "meta": {
-          "population": 19814000
+          "population": 19814000,
+          "tested": {
+            "last_updated": "2020-11-12",
+            "source": "https://twitter.com/ANI/status/1326929948603424768"
+          }
         },
         "total": {
           "confirmed": 467028,
           "deceased": 7332,
-          "recovered": 416580
+          "recovered": 416580,
+          "tested": 5322274
         }
       }
     },
     "meta": {
-      "population": 19814000
+      "population": 19814000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://twitter.com/ANI/status/1326929948603424768"
+      }
     },
     "total": {
       "confirmed": 467028,
       "deceased": 7332,
-      "recovered": 416580
+      "recovered": 416580,
+      "tested": 5322274
     }
   },
   "DN": {
@@ -2798,62 +2870,85 @@
       }
     },
     "meta": {
-      "population": 959000
+      "population": 959000,
+      "tested": {
+        "last_updated": "2020-10-20",
+        "source": "https://dddcovid19.in/uploads/report/BulletinDNHDD20102020.pdf"
+      }
     },
     "total": {
       "confirmed": 3273,
       "deceased": 2,
       "other": 27,
-      "recovered": 3224
+      "recovered": 3224,
+      "tested": 72410
     }
   },
   "GA": {
     "delta": {
       "confirmed": 107,
-      "recovered": 192
+      "recovered": 192,
+      "tested": 1311
     },
     "delta7": {
       "confirmed": 1061,
       "deceased": 26,
-      "recovered": 1372
+      "recovered": 1372,
+      "tested": 10530
     },
     "districts": {
       "Unknown": {
         "delta": {
           "confirmed": 107,
-          "recovered": 192
+          "recovered": 192,
+          "tested": 1311
         },
         "delta7": {
           "confirmed": 1061,
           "deceased": 26,
-          "recovered": 1372
+          "recovered": 1372,
+          "tested": 10530
+        },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-11-12",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3661"
+          }
         },
         "total": {
           "confirmed": 45605,
           "deceased": 656,
-          "recovered": 43221
+          "recovered": 43221,
+          "tested": 318541
         }
       }
     },
     "meta": {
-      "population": 1540000
+      "population": 1540000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3661"
+      }
     },
     "total": {
       "confirmed": 45605,
       "deceased": 656,
-      "recovered": 43221
+      "recovered": 43221,
+      "tested": 318541
     }
   },
   "GJ": {
     "delta": {
       "confirmed": 1120,
       "deceased": 6,
-      "recovered": 1038
+      "recovered": 1038,
+      "tested": 54624
     },
     "delta7": {
       "confirmed": 7366,
       "deceased": 38,
-      "recovered": 7333
+      "recovered": 7333,
+      "tested": 376082
     },
     "districts": {
       "Ahmedabad": {
@@ -3669,25 +3764,32 @@
       }
     },
     "meta": {
-      "population": 67936000
+      "population": 67936000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://twitter.com/GujHFWDept/status/1326897444492357632?s=20"
+      }
     },
     "total": {
       "confirmed": 184964,
       "deceased": 3785,
-      "recovered": 168958
+      "recovered": 168958,
+      "tested": 6680500
     }
   },
   "HP": {
     "delta": {
       "confirmed": 765,
       "deceased": 6,
-      "recovered": 199
+      "recovered": 199,
+      "tested": 4895
     },
     "delta7": {
       "confirmed": 4374,
       "deceased": 50,
       "other": 2,
-      "recovered": 1830
+      "recovered": 1830,
+      "tested": 37699
     },
     "districts": {
       "Bilaspur": {
@@ -3992,25 +4094,32 @@
       }
     },
     "meta": {
-      "population": 7300000
+      "population": 7300000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://twitter.com/nhm_hp/status/1326922098825191425"
+      }
     },
     "total": {
       "confirmed": 28183,
       "deceased": 405,
       "other": 32,
-      "recovered": 21585
+      "recovered": 21585,
+      "tested": 451647
     }
   },
   "HR": {
     "delta": {
       "confirmed": 2788,
       "deceased": 21,
-      "recovered": 2015
+      "recovered": 2015,
+      "tested": 29645
     },
     "delta7": {
       "confirmed": 16965,
       "deceased": 120,
-      "recovered": 12622
+      "recovered": 12622,
+      "tested": 170806
     },
     "districts": {
       "Ambala": {
@@ -4533,24 +4642,31 @@
       }
     },
     "meta": {
-      "population": 28672000
+      "population": 28672000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "http://www.nhmharyana.gov.in/WriteReadData/userfiles/file/CoronaVirus/Daily%20Bulletin%20of%20COVID%2019%20as%20on%2012-11-20.pdf"
+      }
     },
     "total": {
       "confirmed": 193111,
       "deceased": 1979,
-      "recovered": 172265
+      "recovered": 172265,
+      "tested": 2930335
     }
   },
   "JH": {
     "delta": {
       "confirmed": 269,
       "deceased": 4,
-      "recovered": 606
+      "recovered": 606,
+      "tested": 24074
     },
     "delta7": {
       "confirmed": 1950,
       "deceased": 23,
-      "recovered": 2944
+      "recovered": 2944,
+      "tested": 197880
     },
     "districts": {
       "Bokaro": {
@@ -5036,24 +5152,31 @@
       }
     },
     "meta": {
-      "population": 37403000
+      "population": 37403000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://twitter.com/rnuddkranchi/status/1326920635239559171"
+      }
     },
     "total": {
       "confirmed": 105493,
       "deceased": 917,
-      "recovered": 100908
+      "recovered": 100908,
+      "tested": 3738656
     }
   },
   "JK": {
     "delta": {
       "confirmed": 617,
       "deceased": 8,
-      "recovered": 511
+      "recovered": 511,
+      "tested": 26609
     },
     "delta7": {
       "confirmed": 3744,
       "deceased": 49,
-      "recovered": 3919
+      "recovered": 3919,
+      "tested": 164307
     },
     "districts": {
       "Anantnag": {
@@ -5440,24 +5563,31 @@
       }
     },
     "meta": {
-      "population": 13203000
+      "population": 13203000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://twitter.com/diprjk/status/1326864861956091904?s=20"
+      }
     },
     "total": {
       "confirmed": 100968,
       "deceased": 1566,
-      "recovered": 93824
+      "recovered": 93824,
+      "tested": 2578555
     }
   },
   "KA": {
     "delta": {
       "confirmed": 2116,
       "deceased": 21,
-      "recovered": 3368
+      "recovered": 3368,
+      "tested": 115386
     },
     "delta7": {
       "confirmed": 16983,
       "deceased": 162,
-      "recovered": 20446
+      "recovered": 20446,
+      "tested": 754087
     },
     "districts": {
       "Bagalkote": {
@@ -6179,26 +6309,33 @@
       }
     },
     "meta": {
-      "population": 65798000
+      "population": 65798000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://t.co/pbrBLN1qhg?amp=1"
+      }
     },
     "total": {
       "confirmed": 855912,
       "deceased": 11474,
       "other": 19,
-      "recovered": 814949
+      "recovered": 814949,
+      "tested": 9158603
     }
   },
   "KL": {
     "delta": {
       "confirmed": 5537,
       "deceased": 25,
-      "recovered": 6119
+      "recovered": 6119,
+      "tested": 57202
     },
     "delta7": {
       "confirmed": 41790,
       "deceased": 183,
       "other": 2,
-      "recovered": 47879
+      "recovered": 47879,
+      "tested": 384867
     },
     "districts": {
       "Alappuzha": {
@@ -6543,25 +6680,32 @@
       }
     },
     "meta": {
-      "population": 35125000
+      "population": 35125000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://dhs.kerala.gov.in/wp-content/uploads/2020/11/Bulletin-HFWD-English-November-12.pdf"
+      }
     },
     "total": {
       "confirmed": 508257,
       "deceased": 1797,
       "other": 118,
-      "recovered": 428529
+      "recovered": 428529,
+      "tested": 5307067
     }
   },
   "LA": {
     "delta": {
       "confirmed": 77,
       "deceased": 3,
-      "recovered": 33
+      "recovered": 33,
+      "tested": 780
     },
     "delta7": {
       "confirmed": 578,
       "deceased": 10,
-      "recovered": 349
+      "recovered": 349,
+      "tested": 5447
     },
     "districts": {
       "Kargil": {
@@ -6617,12 +6761,17 @@
       }
     },
     "meta": {
-      "population": 293000
+      "population": 293000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://twitter.com/DIPR_Leh/status/1327221836577341440/photo/1"
+      }
     },
     "total": {
       "confirmed": 7211,
       "deceased": 89,
-      "recovered": 6151
+      "recovered": 6151,
+      "tested": 83893
     }
   },
   "MH": {
@@ -6630,13 +6779,15 @@
       "confirmed": 4496,
       "deceased": 122,
       "other": 8,
-      "recovered": 7809
+      "recovered": 7809,
+      "tested": 63947
     },
     "delta7": {
       "confirmed": 32885,
       "deceased": 878,
       "other": 117,
-      "recovered": 53782
+      "recovered": 53782,
+      "tested": 414021
     },
     "districts": {
       "Ahmednagar": {
@@ -7482,13 +7633,18 @@
       }
     },
     "meta": {
-      "population": 122153000
+      "population": 122153000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://twitter.com/ANI/status/1326892519800532992?s=20"
+      }
     },
     "total": {
       "confirmed": 1736329,
       "deceased": 45682,
       "other": 956,
-      "recovered": 1605064
+      "recovered": 1605064,
+      "tested": 9664275
     }
   },
   "ML": {
@@ -7496,13 +7652,15 @@
       "confirmed": 144,
       "deceased": 4,
       "other": 1,
-      "recovered": 56
+      "recovered": 56,
+      "tested": 1453
     },
     "delta7": {
       "confirmed": 619,
       "deceased": 7,
       "other": 1,
-      "recovered": 555
+      "recovered": 555,
+      "tested": 9606
     },
     "districts": {
       "East Garo Hills": {
@@ -7705,64 +7863,85 @@
       }
     },
     "meta": {
-      "population": 3224000
+      "population": 3224000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://twitter.com/PIBShillong/status/1326898842680356867/photo/2"
+      }
     },
     "total": {
       "confirmed": 10512,
       "deceased": 98,
       "other": 1,
-      "recovered": 9368
+      "recovered": 9368,
+      "tested": 217077
     }
   },
   "MN": {
     "delta": {
       "confirmed": 254,
       "deceased": 5,
-      "recovered": 191
+      "recovered": 191,
+      "tested": 2467
     },
     "delta7": {
       "confirmed": 1486,
       "deceased": 18,
-      "recovered": 2139
+      "recovered": 2139,
+      "tested": 18947
     },
     "districts": {
       "Unknown": {
         "delta": {
           "confirmed": 254,
           "deceased": 5,
-          "recovered": 191
+          "recovered": 191,
+          "tested": 2467
         },
         "delta7": {
           "confirmed": 1486,
           "deceased": 18,
-          "recovered": 2139
+          "recovered": 2139,
+          "tested": 18947
+        },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-11-12"
+          }
         },
         "total": {
           "confirmed": 21211,
           "deceased": 207,
-          "recovered": 17889
+          "recovered": 17889,
+          "tested": 380271
         }
       }
     },
     "meta": {
-      "population": 3103000
+      "population": 3103000,
+      "tested": {
+        "last_updated": "2020-11-12"
+      }
     },
     "total": {
       "confirmed": 21211,
       "deceased": 207,
-      "recovered": 17889
+      "recovered": 17889,
+      "tested": 380271
     }
   },
   "MP": {
     "delta": {
       "confirmed": 1046,
       "deceased": 10,
-      "recovered": 692
+      "recovered": 692,
+      "tested": 26538
     },
     "delta7": {
       "confirmed": 6172,
       "deceased": 73,
-      "recovered": 5193
+      "recovered": 5193,
+      "tested": 185365
     },
     "districts": {
       "Agar Malwa": {
@@ -8926,22 +9105,29 @@
       }
     },
     "meta": {
-      "population": 82232000
+      "population": 82232000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://twitter.com/healthminmp/status/1326881339543592961?s=20"
+      }
     },
     "total": {
       "confirmed": 180997,
       "deceased": 3065,
-      "recovered": 169260
+      "recovered": 169260,
+      "tested": 3254457
     }
   },
   "MZ": {
     "delta": {
       "confirmed": 25,
-      "recovered": 51
+      "recovered": 51,
+      "tested": 959
     },
     "delta7": {
       "confirmed": 284,
-      "recovered": 266
+      "recovered": 266,
+      "tested": 8848
     },
     "districts": {
       "Aizawl": {
@@ -9082,25 +9268,32 @@
       }
     },
     "meta": {
-      "population": 1192000
+      "population": 1192000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-12112020-last-24hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp"
+      }
     },
     "total": {
       "confirmed": 3242,
       "deceased": 2,
-      "recovered": 2739
+      "recovered": 2739,
+      "tested": 127101
     }
   },
   "NL": {
     "delta": {
       "confirmed": 37,
       "other": 1,
-      "recovered": 88
+      "recovered": 88,
+      "tested": 476
     },
     "delta7": {
       "confirmed": 351,
       "deceased": 5,
       "other": 10,
-      "recovered": 605
+      "recovered": 605,
+      "tested": 2979
     },
     "districts": {
       "Dimapur": {
@@ -9334,25 +9527,32 @@
       }
     },
     "meta": {
-      "population": 2150000
+      "population": 2150000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://twitter.com/MyGovNagaland/status/1326868687836512256?s=20"
+      }
     },
     "total": {
       "confirmed": 9615,
       "deceased": 50,
       "other": 96,
-      "recovered": 8683
+      "recovered": 8683,
+      "tested": 103513
     }
   },
   "OR": {
     "delta": {
       "confirmed": 986,
       "deceased": 14,
-      "recovered": 1264
+      "recovered": 1264,
+      "tested": 45819
     },
     "delta7": {
       "confirmed": 8712,
       "deceased": 105,
-      "recovered": 10208
+      "recovered": 10208,
+      "tested": 335912
     },
     "districts": {
       "Angul": {
@@ -10057,24 +10257,31 @@
       }
     },
     "meta": {
-      "population": 43671000
+      "population": 43671000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3668"
+      }
     },
     "total": {
       "confirmed": 305986,
       "deceased": 1536,
-      "recovered": 293741
+      "recovered": 293741,
+      "tested": 5122938
     }
   },
   "PB": {
     "delta": {
       "confirmed": 685,
       "deceased": 23,
-      "recovered": 469
+      "recovered": 469,
+      "tested": 21363
     },
     "delta7": {
       "confirmed": 4035,
       "deceased": 131,
-      "recovered": 3086
+      "recovered": 3086,
+      "tested": 135239
     },
     "districts": {
       "Amritsar": {
@@ -10592,24 +10799,31 @@
       }
     },
     "meta": {
-      "population": 29859000
+      "population": 29859000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3660"
+      }
     },
     "total": {
       "confirmed": 139869,
       "deceased": 4412,
-      "recovered": 130018
+      "recovered": 130018,
+      "tested": 2822668
     }
   },
   "PY": {
     "delta": {
       "confirmed": 65,
       "deceased": 2,
-      "recovered": 69
+      "recovered": 69,
+      "tested": 3545
     },
     "delta7": {
       "confirmed": 629,
       "deceased": 9,
-      "recovered": 1378
+      "recovered": 1378,
+      "tested": 25344
     },
     "districts": {
       "Karaikal": {
@@ -10715,24 +10929,31 @@
       }
     },
     "meta": {
-      "population": 1504000
+      "population": 1504000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3671"
+      }
     },
     "total": {
       "confirmed": 36179,
       "deceased": 607,
-      "recovered": 34501
+      "recovered": 34501,
+      "tested": 355251
     }
   },
   "RJ": {
     "delta": {
       "confirmed": 2176,
       "deceased": 13,
-      "recovered": 1804
+      "recovered": 1804,
+      "tested": 22882
     },
     "delta7": {
       "confirmed": 13527,
       "deceased": 77,
-      "recovered": 12399
+      "recovered": 12399,
+      "tested": 141789
     },
     "districts": {
       "Ajmer": {
@@ -11585,106 +11806,145 @@
       }
     },
     "meta": {
-      "population": 77264000
+      "population": 77264000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://twitter.com/airnews_jaipur/status/1326896201720098816?s=20"
+      }
     },
     "total": {
       "confirmed": 219327,
       "deceased": 2032,
-      "recovered": 199943
+      "recovered": 199943,
+      "tested": 3966824
     }
   },
   "SK": {
     "delta": {
       "confirmed": 24,
       "deceased": 3,
-      "recovered": 48
+      "recovered": 48,
+      "tested": 192
     },
     "delta7": {
       "confirmed": 273,
       "deceased": 10,
       "other": 1,
-      "recovered": 240
+      "recovered": 240,
+      "tested": 1563
     },
     "districts": {
       "Unknown": {
         "delta": {
           "confirmed": 24,
           "deceased": 3,
-          "recovered": 48
+          "recovered": 48,
+          "tested": 192
         },
         "delta7": {
           "confirmed": 273,
           "deceased": 10,
           "other": 1,
-          "recovered": 240
+          "recovered": 240,
+          "tested": 1563
+        },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-11-12",
+            "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3670"
+          }
         },
         "total": {
           "confirmed": 4368,
           "deceased": 85,
           "other": 84,
-          "recovered": 3935
+          "recovered": 3935,
+          "tested": 58984
         }
       }
     },
     "meta": {
-      "population": 664000
+      "population": 664000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3670"
+      }
     },
     "total": {
       "confirmed": 4368,
       "deceased": 85,
       "other": 84,
-      "recovered": 3935
+      "recovered": 3935,
+      "tested": 58984
     }
   },
   "TG": {
     "delta": {
       "confirmed": 1015,
       "deceased": 3,
-      "recovered": 1716
+      "recovered": 1716,
+      "tested": 40603
     },
     "delta7": {
       "confirmed": 8984,
       "deceased": 31,
-      "recovered": 10286
+      "recovered": 10286,
+      "tested": 285821
     },
     "districts": {
       "Unknown": {
         "delta": {
           "confirmed": 1015,
           "deceased": 3,
-          "recovered": 1716
+          "recovered": 1716,
+          "tested": 40603
         },
         "delta7": {
           "confirmed": 8984,
           "deceased": 31,
-          "recovered": 10286
+          "recovered": 10286,
+          "tested": 285821
+        },
+        "meta": {
+          "tested": {
+            "last_updated": "2020-11-12",
+            "source": "https://twitter.com/drgsrao/status/1326724853454446593?s=20"
+          }
         },
         "total": {
           "confirmed": 254666,
           "deceased": 1393,
-          "recovered": 235950
+          "recovered": 235950,
+          "tested": 4770004
         }
       }
     },
     "meta": {
-      "population": 37220000
+      "population": 37220000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://twitter.com/drgsrao/status/1326724853454446593?s=20"
+      }
     },
     "total": {
       "confirmed": 254666,
       "deceased": 1393,
-      "recovered": 235950
+      "recovered": 235950,
+      "tested": 4770004
     }
   },
   "TN": {
     "delta": {
       "confirmed": 2112,
       "deceased": 25,
-      "recovered": 2347
+      "recovered": 2347,
+      "tested": 77356
     },
     "delta7": {
       "confirmed": 15744,
       "deceased": 168,
-      "recovered": 16242
+      "recovered": 16242,
+      "tested": 538481
     },
     "districts": {
       "Airport Quarantine": {
@@ -12571,23 +12831,30 @@
       }
     },
     "meta": {
-      "population": 75695000
+      "population": 75695000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-12-11-20-COVID-19-6-PM.pdf"
+      }
     },
     "total": {
       "confirmed": 752521,
       "deceased": 11440,
-      "recovered": 722686
+      "recovered": 722686,
+      "tested": 10863921
     }
   },
   "TR": {
     "delta": {
       "confirmed": 59,
-      "recovered": 150
+      "recovered": 150,
+      "tested": 2592
     },
     "delta7": {
       "confirmed": 528,
       "deceased": 6,
-      "recovered": 663
+      "recovered": 663,
+      "tested": 17499
     },
     "districts": {
       "Dhalai": {
@@ -12793,13 +13060,18 @@
       }
     },
     "meta": {
-      "population": 3992000
+      "population": 3992000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/3662"
+      }
     },
     "total": {
       "confirmed": 31762,
       "deceased": 356,
       "other": 23,
-      "recovered": 30185
+      "recovered": 30185,
+      "tested": 487389
     }
   },
   "TT": {
@@ -12836,12 +13108,14 @@
     "delta": {
       "confirmed": 2265,
       "deceased": 21,
-      "recovered": 1859
+      "recovered": 1859,
+      "tested": 152651
     },
     "delta7": {
       "confirmed": 14070,
       "deceased": 171,
-      "recovered": 14102
+      "recovered": 14102,
+      "tested": 1075229
     },
     "districts": {
       "Agra": {
@@ -14682,12 +14956,17 @@
       }
     },
     "meta": {
-      "population": 224979000
+      "population": 224979000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://twitter.com/ShishirGoUP/status/1326929085939949570"
+      }
     },
     "total": {
       "confirmed": 505424,
       "deceased": 7302,
-      "recovered": 475175
+      "recovered": 475175,
+      "tested": 16684729
     }
   },
   "UT": {
@@ -14695,13 +14974,15 @@
       "confirmed": 451,
       "deceased": 7,
       "other": 7,
-      "recovered": 532
+      "recovered": 532,
+      "tested": 11117
     },
     "delta7": {
       "confirmed": 3174,
       "deceased": 46,
       "other": 43,
-      "recovered": 2609
+      "recovered": 2609,
+      "tested": 77152
     },
     "districts": {
       "Almora": {
@@ -15054,25 +15335,32 @@
       }
     },
     "meta": {
-      "population": 11141000
+      "population": 11141000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://twitter.com/PIBDehradun/status/1326893192050954240/photo/2"
+      }
     },
     "total": {
       "confirmed": 67239,
       "deceased": 1093,
       "other": 558,
-      "recovered": 61432
+      "recovered": 61432,
+      "tested": 1155651
     }
   },
   "WB": {
     "delta": {
       "confirmed": 3856,
       "deceased": 54,
-      "recovered": 4453
+      "recovered": 4453,
+      "tested": 44365
     },
     "delta7": {
       "confirmed": 27316,
       "deceased": 384,
-      "recovered": 30700
+      "recovered": 30700,
+      "tested": 312725
     },
     "districts": {
       "Alipurduar": {
@@ -15534,12 +15822,17 @@
       }
     },
     "meta": {
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2020-11-12",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_12th_NOVEMBER_REPORT_FINAL.pdf"
+      }
     },
     "total": {
       "confirmed": 420840,
       "deceased": 7506,
-      "recovered": 381149
+      "recovered": 381149,
+      "tested": 5091700
     }
   }
 }
