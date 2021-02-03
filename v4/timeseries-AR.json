@@ -5350,18 +5350,19 @@
       },
       "2021-02-03": {
         "delta": {
+          "recovered": 2,
           "tested": 566
         },
         "delta7": {
           "confirmed": 5,
-          "recovered": 9,
+          "recovered": 11,
           "tested": 2954,
           "vaccinated": 2484
         },
         "total": {
           "confirmed": 16829,
           "deceased": 56,
-          "recovered": 16762,
+          "recovered": 16764,
           "tested": 393880,
           "vaccinated": 9791
         }
@@ -44391,21 +44392,26 @@
             }
           },
           "2021-02-02": {
+            "delta": {
+              "confirmed": 1
+            },
             "delta7": {
+              "confirmed": 1,
               "tested": 22
             },
             "total": {
-              "confirmed": 474,
+              "confirmed": 475,
               "recovered": 474,
               "tested": 12169
             }
           },
           "2021-02-03": {
             "delta7": {
+              "confirmed": 1,
               "tested": 3
             },
             "total": {
-              "confirmed": 474,
+              "confirmed": 475,
               "recovered": 474,
               "tested": 12169
             }
@@ -76470,29 +76476,6 @@
           }
         }
       },
-      "Unknown": {
-        "dates": {
-          "2021-02-02": {
-            "delta": {
-              "confirmed": 1
-            },
-            "delta7": {
-              "confirmed": 1
-            },
-            "total": {
-              "confirmed": 1
-            }
-          },
-          "2021-02-03": {
-            "delta7": {
-              "confirmed": 1
-            },
-            "total": {
-              "confirmed": 1
-            }
-          }
-        }
-      },
       "Upper Dibang Valley": {
         "dates": {
           "2020-06-01": {
@@ -90166,15 +90149,18 @@
             }
           },
           "2021-02-03": {
+            "delta": {
+              "recovered": 2
+            },
             "delta7": {
               "confirmed": 1,
-              "recovered": 2,
+              "recovered": 4,
               "tested": 272
             },
             "total": {
               "confirmed": 949,
               "deceased": 4,
-              "recovered": 942,
+              "recovered": 944,
               "tested": 28155
             }
           }
