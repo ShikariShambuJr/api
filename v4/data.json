@@ -2568,13 +2568,14 @@
     "delta": {
       "confirmed": 275,
       "deceased": 1,
-      "recovered": 430
+      "recovered": 430,
+      "tested": 32539
     },
     "delta7": {
       "confirmed": 2115,
       "deceased": 8,
       "recovered": 3025,
-      "tested": 182629,
+      "tested": 215168,
       "vaccinated": 148635
     },
     "districts": {
@@ -3324,15 +3325,15 @@
       "last_updated": "2021-02-04T21:33:19+05:30",
       "population": 67936000,
       "tested": {
-        "last_updated": "2021-02-03",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5730"
+        "last_updated": "2021-02-04",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5785"
       }
     },
     "total": {
       "confirmed": 262681,
       "deceased": 4392,
       "recovered": 255589,
-      "tested": 10933696,
+      "tested": 10966235,
       "vaccinated": 311251
     }
   },
@@ -11934,13 +11935,13 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 12189,
+      "confirmed": 12184,
       "deceased": 112,
       "other": 7,
       "recovered": 15709
     },
     "delta7": {
-      "confirmed": 82348,
+      "confirmed": 82343,
       "deceased": 807,
       "other": 42,
       "recovered": 102060,
@@ -11948,7 +11949,7 @@
       "vaccinated": 1521499
     },
     "meta": {
-      "last_updated": "2021-02-04T23:42:19+05:30",
+      "last_updated": "2021-02-05T00:05:14+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-02-03",
@@ -11960,7 +11961,7 @@
       }
     },
     "total": {
-      "confirmed": 10803321,
+      "confirmed": 10803316,
       "deceased": 154854,
       "other": 4520,
       "recovered": 10495222,
@@ -11970,13 +11971,13 @@
   },
   "UP": {
     "delta": {
-      "confirmed": 138,
+      "confirmed": 133,
       "deceased": 6,
       "recovered": 263,
       "tested": 129163
     },
     "delta7": {
-      "confirmed": 1351,
+      "confirmed": 1346,
       "deceased": 38,
       "recovered": 2909,
       "tested": 803859,
@@ -12008,10 +12009,14 @@
         }
       },
       "Aligarh": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 10
+        },
         "delta7": {
-          "confirmed": 45,
+          "confirmed": 49,
           "deceased": 1,
-          "recovered": 51,
+          "recovered": 61,
           "tested": 6934
         },
         "meta": {
@@ -12021,9 +12026,9 @@
           }
         },
         "total": {
-          "confirmed": 11415,
+          "confirmed": 11419,
           "deceased": 56,
-          "recovered": 11283,
+          "recovered": 11293,
           "tested": 482825
         }
       },
@@ -13135,9 +13140,13 @@
         }
       },
       "Mau": {
+        "delta": {
+          "confirmed": 1,
+          "recovered": 6
+        },
         "delta7": {
-          "confirmed": 3,
-          "recovered": 1,
+          "confirmed": 4,
+          "recovered": 7,
           "tested": 9383
         },
         "meta": {
@@ -13147,9 +13156,9 @@
           }
         },
         "total": {
-          "confirmed": 3062,
+          "confirmed": 3063,
           "deceased": 39,
-          "recovered": 3004,
+          "recovered": 3010,
           "tested": 281445
         }
       },
@@ -13576,13 +13585,13 @@
       },
       "Unknown": {
         "delta": {
-          "recovered": 16
+          "confirmed": -10
         },
         "delta7": {
-          "recovered": 16
+          "confirmed": -10
         },
         "total": {
-          "recovered": 16
+          "confirmed": -10
         }
       },
       "Unnao": {
@@ -13632,7 +13641,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-04T23:42:21+05:30",
+      "last_updated": "2021-02-05T00:05:16+05:30",
       "notes": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
       "population": 224979000,
       "tested": {
@@ -13641,7 +13650,7 @@
       }
     },
     "total": {
-      "confirmed": 600975,
+      "confirmed": 600970,
       "deceased": 8680,
       "recovered": 587661,
       "tested": 28340622,
