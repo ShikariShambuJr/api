@@ -769,31 +769,33 @@
   "AS": {
     "delta": {
       "confirmed": 7,
-      "recovered": 29
+      "recovered": 29,
+      "tested": 16240
     },
     "delta7": {
       "confirmed": 102,
       "deceased": 3,
       "recovered": 349,
-      "tested": 84512,
+      "tested": 100752,
       "vaccinated": 23624
     },
     "districts": {
       "Unknown": {
         "delta": {
           "confirmed": 7,
-          "recovered": 29
+          "recovered": 29,
+          "tested": 16240
         },
         "delta7": {
           "confirmed": 102,
           "deceased": 3,
           "recovered": 349,
-          "tested": 84512
+          "tested": 100752
         },
         "meta": {
           "tested": {
-            "last_updated": "2021-02-04",
-            "source": "https://twitter.com/nhm_assam/status/1357362245223677954"
+            "last_updated": "2021-02-05",
+            "source": "https://twitter.com/nhm_assam/status/1357714965151404032"
           }
         },
         "total": {
@@ -801,17 +803,17 @@
           "deceased": 1084,
           "other": 1347,
           "recovered": 214403,
-          "tested": 6530025
+          "tested": 6546265
         }
       }
     },
     "meta": {
-      "last_updated": "2021-02-05T21:47:21+05:30",
+      "last_updated": "2021-02-05T22:02:24+05:30",
       "notes": "[Jan 1]: 1347 cases i.e Covid +'tive patients dead for other reasons have been deducted fom active count.",
       "population": 34293000,
       "tested": {
-        "last_updated": "2021-02-04",
-        "source": "https://twitter.com/nhm_assam/status/1357362245223677954"
+        "last_updated": "2021-02-05",
+        "source": "https://twitter.com/nhm_assam/status/1357714965151404032"
       }
     },
     "total": {
@@ -819,7 +821,7 @@
       "deceased": 1084,
       "other": 1347,
       "recovered": 214403,
-      "tested": 6530025,
+      "tested": 6546265,
       "vaccinated": 60556
     }
   },
@@ -2370,7 +2372,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-05T21:47:19+05:30",
+      "last_updated": "2021-02-05T22:02:21+05:30",
       "population": 28724000,
       "tested": {
         "last_updated": "2021-02-05",
@@ -2581,13 +2583,14 @@
     "delta": {
       "confirmed": 267,
       "deceased": 1,
-      "recovered": 425
+      "recovered": 425,
+      "tested": 32520
     },
     "delta7": {
       "confirmed": 2047,
       "deceased": 8,
       "recovered": 2887,
-      "tested": 215168,
+      "tested": 247688,
       "vaccinated": 126508
     },
     "districts": {
@@ -3343,28 +3346,29 @@
       "last_updated": "2021-02-05T20:57:18+05:30",
       "population": 67936000,
       "tested": {
-        "last_updated": "2021-02-04",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5785"
+        "last_updated": "2021-02-05",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5836"
       }
     },
     "total": {
       "confirmed": 262948,
       "deceased": 4393,
       "recovered": 255914,
-      "tested": 10966235,
+      "tested": 10998755,
       "vaccinated": 348183
     }
   },
   "HP": {
     "delta": {
       "confirmed": 71,
-      "recovered": 48
+      "recovered": 48,
+      "tested": 6156
     },
     "delta7": {
       "confirmed": 364,
       "deceased": 8,
       "recovered": 237,
-      "tested": 29571,
+      "tested": 35727,
       "vaccinated": 25442
     },
     "districts": {
@@ -3635,11 +3639,11 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-05T21:47:23+05:30",
+      "last_updated": "2021-02-05T22:02:26+05:30",
       "population": 7300000,
       "tested": {
-        "last_updated": "2021-02-04",
-        "source": "https://twitter.com/nhm_hp/status/1357353873317400576"
+        "last_updated": "2021-02-05",
+        "source": "https://twitter.com/nhm_hp/status/1357719436380102658"
       }
     },
     "total": {
@@ -3647,7 +3651,7 @@
       "deceased": 970,
       "other": 16,
       "recovered": 56316,
-      "tested": 952997,
+      "tested": 959153,
       "vaccinated": 48360
     }
   },
@@ -6984,7 +6988,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-05T21:47:17+05:30",
+      "last_updated": "2021-02-05T22:02:17+05:30",
       "notes": "[Dec 16]:10,218 duplicate cases & other state cases removed from total cases.791 recovered cases also removed from total recovered cases while reconciling \n[Sep 9] :239 cases have been removed from the hospitalized figures owing to the removal of duplicates and change of addresses as per the original residence\n[Aug 15] : MH bulletin has reduced 819 confirmed cases in Mumbai and 72 confirmed cases from 'Other States' from the tally\n[Jun 16] : 1328 deceased cases have been retroactively added to MH bulletin.\n[Jun 20] : 69 deceased cases have been reduced based on state bulletin.",
       "population": 122153000,
       "tested": {
@@ -7243,11 +7247,14 @@
     }
   },
   "MP": {
+    "delta": {
+      "tested": 16663
+    },
     "delta7": {
       "confirmed": 1188,
       "deceased": 13,
       "recovered": 1670,
-      "tested": 95820,
+      "tested": 112483,
       "vaccinated": 93205
     },
     "districts": {
@@ -8182,15 +8189,15 @@
       "notes": "[Oct 14]: 4469 confirmed cases and 4469 recoveries added in MP bulletin as reconciliation with private labs and hospitals",
       "population": 82232000,
       "tested": {
-        "last_updated": "2021-02-04",
-        "source": "https://twitter.com/healthminmp/status/1357345122497613827"
+        "last_updated": "2021-02-05",
+        "source": "https://twitter.com/healthminmp/status/1357718208472514560"
       }
     },
     "total": {
       "confirmed": 255855,
       "deceased": 3818,
       "recovered": 249706,
-      "tested": 5420927,
+      "tested": 5437590,
       "vaccinated": 339386
     }
   },
@@ -10567,7 +10574,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-05T21:47:25+05:30",
+      "last_updated": "2021-02-05T22:02:28+05:30",
       "population": 664000,
       "tested": {
         "last_updated": "2021-02-05",
@@ -11728,7 +11735,7 @@
       "vaccinated": 1459418
     },
     "meta": {
-      "last_updated": "2021-02-05T21:47:16+05:30",
+      "last_updated": "2021-02-05T22:02:16+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-02-04",
