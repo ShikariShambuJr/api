@@ -7334,8 +7334,11 @@
     }
   },
   "NL": {
+    "delta": {
+      "confirmed": 5
+    },
     "delta7": {
-      "confirmed": 33,
+      "confirmed": 38,
       "other": 5,
       "recovered": 17,
       "tested": 863,
@@ -7343,10 +7346,13 @@
     },
     "districts": {
       "Dimapur": {
+        "delta": {
+          "recovered": -28
+        },
         "delta7": {
           "confirmed": 4,
           "other": 1,
-          "recovered": 6
+          "recovered": -22
         },
         "meta": {
           "population": 379769,
@@ -7358,7 +7364,7 @@
           "confirmed": 6474,
           "deceased": 59,
           "other": 75,
-          "recovered": 6340,
+          "recovered": 6312,
           "tested": 47020
         }
       },
@@ -7377,10 +7383,14 @@
         }
       },
       "Kohima": {
+        "delta": {
+          "confirmed": 5,
+          "recovered": 28
+        },
         "delta7": {
-          "confirmed": 28,
+          "confirmed": 33,
           "other": 4,
-          "recovered": 4
+          "recovered": 32
         },
         "meta": {
           "population": 270063,
@@ -7389,10 +7399,10 @@
           }
         },
         "total": {
-          "confirmed": 3807,
+          "confirmed": 3812,
           "deceased": 21,
           "other": 42,
-          "recovered": 3684,
+          "recovered": 3712,
           "tested": 33986
         }
       },
@@ -7520,7 +7530,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-04T20:25:23+05:30",
+      "last_updated": "2021-02-05T17:24:18+05:30",
       "population": 2150000,
       "tested": {
         "last_updated": "2021-02-04",
@@ -7528,7 +7538,7 @@
       }
     },
     "total": {
-      "confirmed": 12121,
+      "confirmed": 12126,
       "deceased": 88,
       "other": 148,
       "recovered": 11821,
@@ -10395,12 +10405,12 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 266,
+      "confirmed": 271,
       "deceased": 2,
       "recovered": 189
     },
     "delta7": {
-      "confirmed": 69772,
+      "confirmed": 69777,
       "deceased": 680,
       "other": 28,
       "recovered": 87542,
@@ -10408,7 +10418,7 @@
       "vaccinated": 1459418
     },
     "meta": {
-      "last_updated": "2021-02-05T17:06:15+05:30",
+      "last_updated": "2021-02-05T17:24:15+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-02-04",
@@ -10420,7 +10430,7 @@
       }
     },
     "total": {
-      "confirmed": 10803799,
+      "confirmed": 10803804,
       "deceased": 154864,
       "other": 4520,
       "recovered": 10495590,
