@@ -14925,12 +14925,14 @@
     "delta": {
       "confirmed": 2496,
       "deceased": 45,
-      "recovered": 2118
+      "recovered": 2118,
+      "tested": 19003
     },
     "delta7": {
       "confirmed": 16215,
       "deceased": 291,
-      "recovered": 14845
+      "recovered": 14845,
+      "tested": 119888
     },
     "districts": {
       "Alipurduar": {
@@ -15371,12 +15373,17 @@
       }
     },
     "meta": {
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2020-07-31",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_31st_JULY_REPORT_FINAL.pdf"
+      }
     },
     "total": {
       "confirmed": 70188,
       "deceased": 1581,
-      "recovered": 48374
+      "recovered": 48374,
+      "tested": 893400
     }
   }
 }

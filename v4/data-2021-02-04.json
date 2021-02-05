@@ -14053,12 +14053,14 @@
       "confirmed": 206,
       "deceased": 4,
       "recovered": 301,
+      "tested": 23031,
       "vaccinated": 19577
     },
     "delta7": {
       "confirmed": 1614,
       "deceased": 51,
       "recovered": 2247,
+      "tested": 161535,
       "vaccinated": 133183
     },
     "districts": {
@@ -14496,12 +14498,17 @@
       }
     },
     "meta": {
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2021-02-04",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_4th_FEBRUARY_REPORT_FINAL.pdf"
+      }
     },
     "total": {
       "confirmed": 570787,
       "deceased": 10199,
       "recovered": 555491,
+      "tested": 8081172,
       "vaccinated": 320668
     }
   }
