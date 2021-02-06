@@ -5200,15 +5200,18 @@
         }
       },
       "2021-02-06": {
+        "delta": {
+          "recovered": 1
+        },
         "delta7": {
-          "recovered": 2,
+          "recovered": 3,
           "vaccinated": 805
         },
         "total": {
           "confirmed": 3380,
           "deceased": 2,
           "other": 29,
-          "recovered": 3344,
+          "recovered": 3345,
           "tested": 72410,
           "vaccinated": 1888
         }
@@ -16720,6 +16723,21 @@
               "confirmed": 312,
               "recovered": 309,
               "tested": 8259
+            }
+          }
+        }
+      },
+      "Unknown": {
+        "dates": {
+          "2021-02-06": {
+            "delta": {
+              "recovered": 1
+            },
+            "delta7": {
+              "recovered": 1
+            },
+            "total": {
+              "recovered": 1
             }
           }
         }
