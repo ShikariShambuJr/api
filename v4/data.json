@@ -47,13 +47,14 @@
     "delta": {
       "confirmed": 75,
       "deceased": 1,
-      "recovered": 133
+      "recovered": 133,
+      "tested": 34864
     },
     "delta7": {
       "confirmed": 630,
       "deceased": 6,
       "recovered": 901,
-      "tested": 180716,
+      "tested": 215580,
       "vaccinated": 84938
     },
     "districts": {
@@ -362,15 +363,15 @@
       "last_updated": "2021-02-06T17:11:15+05:30",
       "population": 52221000,
       "tested": {
-        "last_updated": "2021-02-05",
-        "source": "https://twitter.com/ArogyaAndhra/status/1357673298012721155?s=20"
+        "last_updated": "2021-02-06",
+        "source": "https://twitter.com/ArogyaAndhra/status/1357998947734671362"
       }
     },
     "total": {
       "confirmed": 888350,
       "deceased": 7159,
       "recovered": 880179,
-      "tested": 13276678,
+      "tested": 13311542,
       "vaccinated": 272190
     }
   },
@@ -2153,13 +2154,14 @@
     "delta": {
       "confirmed": 123,
       "deceased": 4,
-      "recovered": 151
+      "recovered": 151,
+      "tested": 63322
     },
     "delta7": {
       "confirmed": 960,
       "deceased": 28,
       "recovered": 1194,
-      "tested": 346861,
+      "tested": 410183,
       "vaccinated": 43261
     },
     "districts": {
@@ -2167,26 +2169,27 @@
         "delta": {
           "confirmed": 123,
           "deceased": 4,
-          "recovered": 151
+          "recovered": 151,
+          "tested": 63322
         },
         "delta7": {
           "confirmed": 960,
           "deceased": 28,
           "recovered": 1194,
-          "tested": 346861
+          "tested": 410183
         },
         "meta": {
           "population": 19814000,
           "tested": {
-            "last_updated": "2021-02-05",
-            "source": "https://twitter.com/ANI/status/1357655496275099650?s=20"
+            "last_updated": "2021-02-06",
+            "source": "https://twitter.com/ANI/status/1358011073798885377"
           }
         },
         "total": {
           "confirmed": 635916,
           "deceased": 10877,
           "recovered": 623865,
-          "tested": 11027592
+          "tested": 11090914
         }
       }
     },
@@ -2195,15 +2198,15 @@
       "notes": "[July 14]: Value for the total tests conducted has been reduced by 97008 in the state bulletin. Reason given : \"Reconciled with ICMR figures\". We have made the same change.",
       "population": 19814000,
       "tested": {
-        "last_updated": "2021-02-05",
-        "source": "https://twitter.com/ANI/status/1357655496275099650?s=20"
+        "last_updated": "2021-02-06",
+        "source": "https://twitter.com/ANI/status/1358011073798885377"
       }
     },
     "total": {
       "confirmed": 635916,
       "deceased": 10877,
       "recovered": 623865,
-      "tested": 11027592,
+      "tested": 11090914,
       "vaccinated": 100079
     }
   },
@@ -4091,11 +4094,14 @@
     }
   },
   "JK": {
+    "delta": {
+      "tested": 22628
+    },
     "delta7": {
       "confirmed": 336,
       "deceased": 8,
       "recovered": 435,
-      "tested": 119343,
+      "tested": 141971,
       "vaccinated": 14990
     },
     "districts": {
@@ -4393,15 +4399,15 @@
       "last_updated": "2021-02-05T19:12:18+05:30",
       "population": 13203000,
       "tested": {
-        "last_updated": "2021-02-05",
-        "source": "https://twitter.com/diprjk/status/1357669562322350082?s=20"
+        "last_updated": "2021-02-06",
+        "source": "https://twitter.com/diprjk/status/1358024234342129665?s=20"
       }
     },
     "total": {
       "confirmed": 124785,
       "deceased": 1944,
       "recovered": 122187,
-      "tested": 4643543,
+      "tested": 4666171,
       "vaccinated": 41624
     }
   },
@@ -8208,7 +8214,8 @@
       "notes": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "population": 43671000,
       "tested": {
-        "last_updated": "2021-02-06"
+        "last_updated": "2021-02-06",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/5842"
       }
     },
     "total": {
