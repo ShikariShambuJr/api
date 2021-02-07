@@ -5201,11 +5201,12 @@
       },
       "2021-02-06": {
         "delta": {
-          "recovered": 1
+          "recovered": 1,
+          "vaccinated": 324
         },
         "delta7": {
           "recovered": 3,
-          "vaccinated": 805
+          "vaccinated": 1129
         },
         "total": {
           "confirmed": 3380,
@@ -5213,7 +5214,21 @@
           "other": 29,
           "recovered": 3345,
           "tested": 72410,
-          "vaccinated": 1888
+          "vaccinated": 2212
+        }
+      },
+      "2021-02-07": {
+        "delta7": {
+          "recovered": 3,
+          "vaccinated": 1129
+        },
+        "total": {
+          "confirmed": 3380,
+          "deceased": 2,
+          "other": 29,
+          "recovered": 3345,
+          "tested": 72410,
+          "vaccinated": 2212
         }
       }
     },
@@ -9653,6 +9668,18 @@
               "recovered": 1648,
               "tested": 44813
             }
+          },
+          "2021-02-07": {
+            "delta7": {
+              "recovered": 2
+            },
+            "total": {
+              "confirmed": 1656,
+              "deceased": 1,
+              "other": 5,
+              "recovered": 1648,
+              "tested": 44813
+            }
           }
         }
       },
@@ -13762,6 +13789,15 @@
               "recovered": 1387,
               "tested": 19338
             }
+          },
+          "2021-02-07": {
+            "total": {
+              "confirmed": 1412,
+              "deceased": 1,
+              "other": 24,
+              "recovered": 1387,
+              "tested": 19338
+            }
           }
         }
       },
@@ -16724,6 +16760,13 @@
               "recovered": 309,
               "tested": 8259
             }
+          },
+          "2021-02-07": {
+            "total": {
+              "confirmed": 312,
+              "recovered": 309,
+              "tested": 8259
+            }
           }
         }
       },
@@ -16733,6 +16776,14 @@
             "delta": {
               "recovered": 1
             },
+            "delta7": {
+              "recovered": 1
+            },
+            "total": {
+              "recovered": 1
+            }
+          },
+          "2021-02-07": {
             "delta7": {
               "recovered": 1
             },
