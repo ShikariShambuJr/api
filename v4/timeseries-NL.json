@@ -5788,20 +5788,23 @@
       },
       "2021-02-08": {
         "delta": {
+          "confirmed": 2,
+          "other": 2,
+          "recovered": 11,
           "tested": 280
         },
         "delta7": {
-          "confirmed": 59,
-          "other": 2,
-          "recovered": 16,
+          "confirmed": 61,
+          "other": 4,
+          "recovered": 27,
           "tested": 1802,
           "vaccinated": 537
         },
         "total": {
-          "confirmed": 12158,
+          "confirmed": 12160,
           "deceased": 88,
-          "other": 149,
-          "recovered": 11826,
+          "other": 151,
+          "recovered": 11837,
           "tested": 126877,
           "vaccinated": 4535
         }
@@ -10395,16 +10398,20 @@
             }
           },
           "2021-02-08": {
+            "delta": {
+              "confirmed": 1,
+              "recovered": 1
+            },
             "delta7": {
-              "confirmed": 4,
+              "confirmed": 5,
               "other": 1,
-              "recovered": -18
+              "recovered": -17
             },
             "total": {
-              "confirmed": 6474,
+              "confirmed": 6475,
               "deceased": 59,
               "other": 75,
-              "recovered": 6316,
+              "recovered": 6317,
               "tested": 47020
             }
           }
@@ -17335,16 +17342,21 @@
             }
           },
           "2021-02-08": {
+            "delta": {
+              "confirmed": 1,
+              "other": 2,
+              "recovered": 9
+            },
             "delta7": {
-              "confirmed": 55,
-              "other": 1,
-              "recovered": 31
+              "confirmed": 56,
+              "other": 3,
+              "recovered": 40
             },
             "total": {
-              "confirmed": 3844,
+              "confirmed": 3845,
               "deceased": 21,
-              "other": 43,
-              "recovered": 3713,
+              "other": 45,
+              "recovered": 3722,
               "tested": 33986
             }
           }
@@ -36576,11 +36588,17 @@
             }
           },
           "2021-02-08": {
+            "delta": {
+              "recovered": 1
+            },
+            "delta7": {
+              "recovered": 1
+            },
             "total": {
               "confirmed": 248,
               "deceased": 1,
               "other": 1,
-              "recovered": 245,
+              "recovered": 246,
               "tested": 4887
             }
           }
