@@ -1,13 +1,14 @@
 {
   "AN": {
     "delta": {
-      "tested": 1475
+      "tested": 1475,
+      "vaccinated": 236
     },
     "delta7": {
       "confirmed": 6,
       "recovered": 4,
       "tested": 11935,
-      "vaccinated": 434
+      "vaccinated": 670
     },
     "districts": {
       "Unknown": {
@@ -46,7 +47,7 @@
       "deceased": 62,
       "recovered": 4932,
       "tested": 235072,
-      "vaccinated": 3161
+      "vaccinated": 3397
     }
   },
   "AP": {
@@ -775,14 +776,15 @@
     "delta": {
       "confirmed": 8,
       "recovered": 24,
-      "tested": 6236
+      "tested": 6236,
+      "vaccinated": 1316
     },
     "delta7": {
       "confirmed": 69,
       "deceased": 2,
       "recovered": 269,
       "tested": 101837,
-      "vaccinated": 49163
+      "vaccinated": 50479
     },
     "districts": {
       "Unknown": {
@@ -827,7 +829,7 @@
       "other": 1347,
       "recovered": 214447,
       "tested": 6567763,
-      "vaccinated": 87269
+      "vaccinated": 88585
     }
   },
   "BR": {
@@ -2388,9 +2390,12 @@
     }
   },
   "DN": {
+    "delta": {
+      "vaccinated": -708
+    },
     "delta7": {
       "recovered": 3,
-      "vaccinated": 1129
+      "vaccinated": 421
     },
     "districts": {
       "Dadra and Nagar Haveli": {
@@ -2454,7 +2459,7 @@
       "other": 29,
       "recovered": 3345,
       "tested": 72410,
-      "vaccinated": 2212
+      "vaccinated": 1504
     }
   },
   "GA": {
@@ -7074,14 +7079,15 @@
       "confirmed": 9,
       "deceased": 1,
       "recovered": 18,
-      "tested": 1696
+      "tested": 1696,
+      "vaccinated": 78
     },
     "delta7": {
       "confirmed": 56,
       "deceased": 2,
       "recovered": 101,
       "tested": 9865,
-      "vaccinated": 4269
+      "vaccinated": 4347
     },
     "districts": {
       "Unknown": {
@@ -7125,7 +7131,7 @@
       "deceased": 373,
       "recovered": 28654,
       "tested": 524987,
-      "vaccinated": 8256
+      "vaccinated": 8334
     }
   },
   "MP": {
@@ -11550,11 +11556,14 @@
     }
   },
   "TR": {
+    "delta": {
+      "vaccinated": 58
+    },
     "delta7": {
       "confirmed": 2,
       "recovered": 12,
       "tested": 2931,
-      "vaccinated": 10551
+      "vaccinated": 10609
     },
     "districts": {
       "Dhalai": {
@@ -11721,7 +11730,7 @@
       "other": 23,
       "recovered": 32927,
       "tested": 609909,
-      "vaccinated": 40347
+      "vaccinated": 40405
     }
   },
   "TT": {
@@ -11729,22 +11738,23 @@
       "confirmed": 11528,
       "deceased": 82,
       "other": 8,
-      "recovered": 11502
+      "recovered": 11502,
+      "tested": 532236
     },
     "delta7": {
       "confirmed": 80214,
       "deceased": 686,
       "other": 46,
       "recovered": 99069,
-      "tested": 4275743,
+      "tested": 4807979,
       "vaccinated": 2016479
     },
     "meta": {
       "last_updated": "2021-02-07T22:36:15+05:30",
       "population": 1332900000,
       "tested": {
-        "last_updated": "2021-02-06",
-        "source": "https://twitter.com/ICMRDELHI/status/1358260774020534272"
+        "last_updated": "2021-02-07",
+        "source": "https://twitter.com/ICMRDELHI/status/1358619618894618625"
       },
       "vaccinated": {
         "last_updated": "2021-02-06",
@@ -11756,7 +11766,7 @@
       "deceased": 155114,
       "other": 4545,
       "recovered": 10533076,
-      "tested": 201368378,
+      "tested": 201900614,
       "vaccinated": 5775322
     }
   },
@@ -13384,7 +13394,8 @@
       "deceased": 4,
       "other": 1,
       "recovered": 35,
-      "tested": 5491
+      "tested": 5491,
+      "vaccinated": 845
     },
     "delta7": {
       "confirmed": 364,
@@ -13392,7 +13403,7 @@
       "other": 15,
       "recovered": 588,
       "tested": 55937,
-      "vaccinated": 42534
+      "vaccinated": 43379
     },
     "districts": {
       "Almora": {
@@ -13682,7 +13693,7 @@
       "other": 1359,
       "recovered": 92554,
       "tested": 2190489,
-      "vaccinated": 73762
+      "vaccinated": 74607
     }
   },
   "WB": {
