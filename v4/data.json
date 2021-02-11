@@ -5899,15 +5899,22 @@
     }
   },
   "LA": {
+    "delta": {
+      "recovered": 8
+    },
     "delta7": {
       "confirmed": 22,
-      "recovered": 34,
+      "recovered": 42,
       "vaccinated": 1025
     },
     "districts": {
       "Kargil": {
+        "delta": {
+          "recovered": 2
+        },
         "delta7": {
-          "confirmed": 4
+          "confirmed": 4,
+          "recovered": 2
         },
         "meta": {
           "population": 143000,
@@ -5918,14 +5925,17 @@
         "total": {
           "confirmed": 2112,
           "deceased": 44,
-          "recovered": 2060,
+          "recovered": 2062,
           "tested": 37471
         }
       },
       "Leh": {
+        "delta": {
+          "recovered": 6
+        },
         "delta7": {
           "confirmed": 18,
-          "recovered": 34
+          "recovered": 40
         },
         "meta": {
           "population": 147000,
@@ -5936,13 +5946,13 @@
         "total": {
           "confirmed": 7650,
           "deceased": 86,
-          "recovered": 7512,
+          "recovered": 7518,
           "tested": 72597
         }
       }
     },
     "meta": {
-      "last_updated": "2021-02-10T23:33:32+05:30",
+      "last_updated": "2021-02-12T01:57:27+05:30",
       "population": 293000,
       "tested": {
         "last_updated": "2021-01-14",
@@ -5952,7 +5962,7 @@
     "total": {
       "confirmed": 9762,
       "deceased": 130,
-      "recovered": 9572,
+      "recovered": 9580,
       "tested": 110068,
       "vaccinated": 2536
     }
@@ -11851,18 +11861,18 @@
       "confirmed": 9353,
       "deceased": 85,
       "other": -104,
-      "recovered": 15714
+      "recovered": 15722
     },
     "delta7": {
       "confirmed": 76878,
       "deceased": 622,
       "other": -44,
-      "recovered": 92042,
+      "recovered": 92050,
       "tested": 4092045,
       "vaccinated": 2057669
     },
     "meta": {
-      "last_updated": "2021-02-12T00:23:18+05:30",
+      "last_updated": "2021-02-12T01:57:23+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-02-10",
@@ -11877,7 +11887,7 @@
       "confirmed": 10880413,
       "deceased": 155484,
       "other": 4492,
-      "recovered": 10587343,
+      "recovered": 10587351,
       "tested": 204023840,
       "vaccinated": 7017114
     }
