@@ -2323,12 +2323,12 @@
   "GJ": {
     "delta": {
       "confirmed": 285,
-      "deceased": 1,
+      "deceased": 2,
       "recovered": 302
     },
     "delta7": {
       "confirmed": 1769,
-      "deceased": 6,
+      "deceased": 7,
       "recovered": 2781,
       "tested": 185498,
       "vaccinated": 266347
@@ -2337,12 +2337,12 @@
       "Ahmedabad": {
         "delta": {
           "confirmed": 49,
-          "deceased": 1,
+          "deceased": 2,
           "recovered": 62
         },
         "delta7": {
           "confirmed": 328,
-          "deceased": 5,
+          "deceased": 6,
           "recovered": 950
         },
         "meta": {
@@ -2353,7 +2353,7 @@
         },
         "total": {
           "confirmed": 61617,
-          "deceased": 2302,
+          "deceased": 2303,
           "recovered": 58744,
           "tested": 2556492
         }
@@ -3035,7 +3035,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-11T20:20:21+05:30",
+      "last_updated": "2021-02-11T20:41:23+05:30",
       "population": 67936000,
       "tested": {
         "last_updated": "2021-02-10",
@@ -3044,7 +3044,7 @@
     },
     "total": {
       "confirmed": 264450,
-      "deceased": 4398,
+      "deceased": 4399,
       "recovered": 258270,
       "tested": 11151733,
       "vaccinated": 614530
@@ -6520,24 +6520,28 @@
   },
   "MN": {
     "delta": {
+      "confirmed": 7,
+      "recovered": 3,
       "tested": 1036
     },
     "delta7": {
-      "confirmed": 47,
+      "confirmed": 54,
       "deceased": 1,
-      "recovered": 112,
+      "recovered": 115,
       "tested": 9813,
       "vaccinated": 7652
     },
     "districts": {
       "Unknown": {
         "delta": {
+          "confirmed": 7,
+          "recovered": 3,
           "tested": 1036
         },
         "delta7": {
-          "confirmed": 47,
+          "confirmed": 54,
           "deceased": 1,
-          "recovered": 112,
+          "recovered": 115,
           "tested": 9813
         },
         "meta": {
@@ -6547,15 +6551,15 @@
           }
         },
         "total": {
-          "confirmed": 29148,
+          "confirmed": 29155,
           "deceased": 373,
-          "recovered": 28726,
+          "recovered": 28729,
           "tested": 530329
         }
       }
     },
     "meta": {
-      "last_updated": "2021-02-10T21:34:51+05:30",
+      "last_updated": "2021-02-11T20:40:24+05:30",
       "notes": "[Dec 14]:824 out of 980 recovered cases are backdated.",
       "population": 3103000,
       "tested": {
@@ -6564,9 +6568,9 @@
       }
     },
     "total": {
-      "confirmed": 29148,
+      "confirmed": 29155,
       "deceased": 373,
-      "recovered": 28726,
+      "recovered": 28729,
       "tested": 530329,
       "vaccinated": 13747
     }
@@ -10756,7 +10760,8 @@
       "notes": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "population": 75695000,
       "tested": {
-        "last_updated": "2021-02-11"
+        "last_updated": "2021-02-11",
+        "source": "https://stopcorona.tn.gov.in/wp-content/uploads/2020/03/Media-Bulletin-11-02-21-COVID-19-6-PM.pdf"
       }
     },
     "total": {
@@ -10935,20 +10940,20 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 2187,
-      "deceased": 22,
-      "recovered": 2010
+      "confirmed": 2194,
+      "deceased": 23,
+      "recovered": 2013
     },
     "delta7": {
-      "confirmed": 69712,
-      "deceased": 559,
+      "confirmed": 69719,
+      "deceased": 560,
       "other": 55,
-      "recovered": 78338,
+      "recovered": 78341,
       "tested": 4092045,
       "vaccinated": 2057669
     },
     "meta": {
-      "last_updated": "2021-02-11T20:20:19+05:30",
+      "last_updated": "2021-02-11T20:41:20+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-02-10",
@@ -10960,10 +10965,10 @@
       }
     },
     "total": {
-      "confirmed": 10873247,
-      "deceased": 155421,
+      "confirmed": 10873254,
+      "deceased": 155422,
       "other": 4591,
-      "recovered": 10573639,
+      "recovered": 10573642,
       "tested": 204023840,
       "vaccinated": 7017114
     }
