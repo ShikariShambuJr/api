@@ -13321,12 +13321,14 @@
     "delta": {
       "confirmed": 3894,
       "deceased": 53,
-      "recovered": 5107
+      "recovered": 5107,
+      "tested": 162333
     },
     "delta7": {
       "confirmed": 28462,
       "deceased": 467,
-      "recovered": 38280
+      "recovered": 38280,
+      "tested": 1115784
     },
     "districts": {
       "Agra": {
@@ -15213,25 +15215,32 @@
       }
     },
     "meta": {
-      "population": 224979000
+      "population": 224979000,
+      "tested": {
+        "last_updated": "2020-10-02",
+        "source": "https://twitter.com/ShishirGoUP/status/1311964973849927680?s=20"
+      }
     },
     "total": {
       "confirmed": 406995,
       "deceased": 5917,
-      "recovered": 351966
+      "recovered": 351966,
+      "tested": 10426042
     }
   },
   "UT": {
     "delta": {
       "confirmed": 311,
       "deceased": 11,
-      "recovered": 340
+      "recovered": 340,
+      "tested": 7417
     },
     "delta7": {
       "confirmed": 4227,
       "deceased": 81,
       "other": 42,
-      "recovered": 6534
+      "recovered": 6534,
+      "tested": 71462
     },
     "districts": {
       "Almora": {
@@ -15571,25 +15580,32 @@
       }
     },
     "meta": {
-      "population": 11141000
+      "population": 11141000,
+      "tested": {
+        "last_updated": "2020-10-02",
+        "source": "https://twitter.com/ANI/status/1312035241121533953?s=20"
+      }
     },
     "total": {
       "confirmed": 49559,
       "deceased": 636,
       "other": 243,
-      "recovered": 40176
+      "recovered": 40176,
+      "tested": 728436
     }
   },
   "WB": {
     "delta": {
       "confirmed": 3310,
       "deceased": 53,
-      "recovered": 2944
+      "recovered": 2944,
+      "tested": 43282
     },
     "delta7": {
       "confirmed": 22575,
       "deceased": 405,
-      "recovered": 20679
+      "recovered": 20679,
+      "tested": 302844
     },
     "districts": {
       "Alipurduar": {
@@ -16052,12 +16068,17 @@
       }
     },
     "meta": {
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2020-10-02",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_2nd_OCTOBER_REPORT_FINAL.pdf"
+      }
     },
     "total": {
       "confirmed": 263634,
       "deceased": 5070,
-      "recovered": 231699
+      "recovered": 231699,
+      "tested": 3314598
     }
   }
 }

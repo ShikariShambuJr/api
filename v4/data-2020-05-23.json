@@ -8896,12 +8896,14 @@
     "delta": {
       "confirmed": 282,
       "deceased": 3,
-      "recovered": 82
+      "recovered": 82,
+      "tested": 3807
     },
     "delta7": {
       "confirmed": 1759,
       "deceased": 51,
-      "recovered": 965
+      "recovered": 965,
+      "tested": 54762
     },
     "districts": {
       "Agra": {
@@ -10107,22 +10109,29 @@
       }
     },
     "meta": {
-      "population": 224979000
+      "population": 224979000,
+      "tested": {
+        "last_updated": "2020-05-23",
+        "source": "https://t.me/indiacovid/5418?single"
+      }
     },
     "total": {
       "confirmed": 6017,
       "deceased": 155,
-      "recovered": 3406
+      "recovered": 3406,
+      "tested": 217867
     }
   },
   "UT": {
     "delta": {
       "confirmed": 91,
-      "recovered": 2
+      "recovered": 2,
+      "tested": 1240
     },
     "delta7": {
       "confirmed": 153,
-      "recovered": 4
+      "recovered": 4,
+      "tested": 6651
     },
     "districts": {
       "Almora": {
@@ -10392,24 +10401,31 @@
       }
     },
     "meta": {
-      "population": 11141000
+      "population": 11141000,
+      "tested": {
+        "last_updated": "2020-05-23",
+        "source": "http://health.uk.gov.in/files/2020.05.23_Health_Bulletin.pdf"
+      }
     },
     "total": {
       "confirmed": 244,
       "deceased": 1,
-      "recovered": 55
+      "recovered": 55,
+      "tested": 19248
     }
   },
   "WB": {
     "delta": {
       "confirmed": 127,
       "deceased": 4,
-      "recovered": 60
+      "recovered": 60,
+      "tested": 9009
     },
     "delta7": {
       "confirmed": 883,
       "deceased": 37,
-      "recovered": 389
+      "recovered": 389,
+      "tested": 52320
     },
     "districts": {
       "Bankura": {
@@ -10747,12 +10763,17 @@
       }
     },
     "meta": {
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2020-05-23",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_23rd_MAY_REPORT_FINAL.pdf"
+      }
     },
     "total": {
       "confirmed": 3459,
       "deceased": 269,
-      "recovered": 1281
+      "recovered": 1281,
+      "tested": 129608
     }
   }
 }

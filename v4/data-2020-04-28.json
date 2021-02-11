@@ -5086,12 +5086,14 @@
     "delta": {
       "confirmed": 67,
       "deceased": 3,
-      "recovered": 63
+      "recovered": 63,
+      "tested": 3162
     },
     "delta7": {
       "confirmed": 716,
       "deceased": 13,
-      "recovered": 300
+      "recovered": 300,
+      "tested": 32374
     },
     "districts": {
       "Agra": {
@@ -5853,21 +5855,28 @@
       }
     },
     "meta": {
-      "population": 224979000
+      "population": 224979000,
+      "tested": {
+        "last_updated": "2020-04-28",
+        "source": "https://t.me/indiacovid/3474"
+      }
     },
     "total": {
       "confirmed": 2053,
       "deceased": 34,
-      "recovered": 462
+      "recovered": 462,
+      "tested": 70307
     }
   },
   "UT": {
     "delta": {
-      "confirmed": 3
+      "confirmed": 3,
+      "tested": 276
     },
     "delta7": {
       "confirmed": 8,
-      "recovered": 7
+      "recovered": 7,
+      "tested": 1678
     },
     "districts": {
       "Almora": {
@@ -5931,23 +5940,30 @@
       }
     },
     "meta": {
-      "population": 11141000
+      "population": 11141000,
+      "tested": {
+        "last_updated": "2020-04-28",
+        "source": "https://twitter.com/ANI/status/1255131631137943552?s=09"
+      }
     },
     "total": {
       "confirmed": 54,
-      "recovered": 26
+      "recovered": 26,
+      "tested": 5739
     }
   },
   "WB": {
     "delta": {
       "confirmed": 48,
       "deceased": 2,
-      "recovered": 4
+      "recovered": 4,
+      "tested": 1180
     },
     "delta7": {
       "confirmed": 305,
       "deceased": 7,
-      "recovered": 36
+      "recovered": 36,
+      "tested": 7041
     },
     "districts": {
       "Darjeeling": {
@@ -6073,12 +6089,17 @@
       }
     },
     "meta": {
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2020-04-28",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/Bulletin_West_Bengal_28.04_.2020_.pdf"
+      }
     },
     "total": {
       "confirmed": 697,
       "deceased": 22,
-      "recovered": 109
+      "recovered": 109,
+      "tested": 13223
     }
   }
 }
