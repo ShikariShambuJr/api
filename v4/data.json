@@ -7994,7 +7994,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-10T19:57:21+05:30",
+      "last_updated": "2021-02-11T12:39:19+05:30",
       "notes": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "population": 43671000,
       "tested": {
@@ -9271,7 +9271,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-11T12:23:19+05:30",
+      "last_updated": "2021-02-11T12:39:21+05:30",
       "notes": "[July 27] : Telangana bulletin for the previous day is released on the next day. We will add the cases for Telangana against the date of release, as that is the convention that we are following for other states.",
       "population": 37220000,
       "tested": {
@@ -10016,10 +10016,14 @@
     }
   },
   "TR": {
+    "delta": {
+      "recovered": 2,
+      "tested": 621
+    },
     "delta7": {
       "confirmed": 2,
-      "recovered": 7,
-      "tested": 3245,
+      "recovered": 9,
+      "tested": 3866,
       "vaccinated": 17717
     },
     "districts": {
@@ -10039,6 +10043,12 @@
         }
       },
       "Gomati": {
+        "delta": {
+          "recovered": 1
+        },
+        "delta7": {
+          "recovered": 1
+        },
         "meta": {
           "population": 436868,
           "tested": {
@@ -10049,7 +10059,7 @@
           "confirmed": 3930,
           "deceased": 44,
           "other": 1,
-          "recovered": 3884,
+          "recovered": 3885,
           "tested": 47437
         }
       },
@@ -10132,8 +10142,11 @@
         }
       },
       "West Tripura": {
+        "delta": {
+          "recovered": 1
+        },
         "delta7": {
-          "recovered": 7
+          "recovered": 8
         },
         "meta": {
           "population": 917534,
@@ -10145,44 +10158,44 @@
           "confirmed": 11641,
           "deceased": 194,
           "other": 11,
-          "recovered": 11434,
+          "recovered": 11435,
           "tested": 202939
         }
       }
     },
     "meta": {
-      "last_updated": "2021-02-09T18:02:21+05:30",
+      "last_updated": "2021-02-11T12:39:22+05:30",
       "notes": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "population": 3992000,
       "tested": {
-        "last_updated": "2021-02-10",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6054"
+        "last_updated": "2021-02-11",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6107"
       }
     },
     "total": {
       "confirmed": 33350,
       "deceased": 388,
       "other": 23,
-      "recovered": 32932,
-      "tested": 612192,
+      "recovered": 32934,
+      "tested": 612813,
       "vaccinated": 52908
     }
   },
   "TT": {
     "delta": {
       "confirmed": 241,
-      "recovered": 118
+      "recovered": 120
     },
     "delta7": {
       "confirmed": 67766,
       "deceased": 537,
       "other": 55,
-      "recovered": 76446,
+      "recovered": 76448,
       "tested": 4092045,
       "vaccinated": 2057669
     },
     "meta": {
-      "last_updated": "2021-02-11T12:23:17+05:30",
+      "last_updated": "2021-02-11T12:39:18+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-02-10",
@@ -10197,7 +10210,7 @@
       "confirmed": 10871301,
       "deceased": 155399,
       "other": 4591,
-      "recovered": 10571747,
+      "recovered": 10571749,
       "tested": 204023840,
       "vaccinated": 7017114
     }
