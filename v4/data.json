@@ -9982,11 +9982,12 @@
   },
   "TR": {
     "delta": {
+      "recovered": 2,
       "tested": 418
     },
     "delta7": {
       "confirmed": 1,
-      "recovered": 8,
+      "recovered": 10,
       "tested": 3819,
       "vaccinated": 22079
     },
@@ -10025,8 +10026,12 @@
         }
       },
       "Khowai": {
+        "delta": {
+          "recovered": 1
+        },
         "delta7": {
-          "confirmed": 1
+          "confirmed": 1,
+          "recovered": 1
         },
         "meta": {
           "population": 327391,
@@ -10037,7 +10042,7 @@
         "total": {
           "confirmed": 1843,
           "deceased": 31,
-          "recovered": 1809,
+          "recovered": 1810,
           "tested": 24046
         }
       },
@@ -10100,8 +10105,11 @@
         }
       },
       "West Tripura": {
+        "delta": {
+          "recovered": 1
+        },
         "delta7": {
-          "recovered": 7
+          "recovered": 8
         },
         "meta": {
           "population": 917534,
@@ -10113,13 +10121,13 @@
           "confirmed": 11641,
           "deceased": 194,
           "other": 11,
-          "recovered": 11435,
+          "recovered": 11436,
           "tested": 202939
         }
       }
     },
     "meta": {
-      "last_updated": "2021-02-11T12:58:26+05:30",
+      "last_updated": "2021-02-12T11:42:20+05:30",
       "notes": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "population": 3992000,
       "tested": {
@@ -10131,7 +10139,7 @@
       "confirmed": 33350,
       "deceased": 388,
       "other": 23,
-      "recovered": 32934,
+      "recovered": 32936,
       "tested": 613231,
       "vaccinated": 59438
     }
@@ -10140,18 +10148,18 @@
     "delta": {
       "confirmed": 143,
       "deceased": 1,
-      "recovered": 152
+      "recovered": 154
     },
     "delta7": {
       "confirmed": 65310,
       "deceased": 528,
       "other": -47,
-      "recovered": 77690,
+      "recovered": 77692,
       "tested": 4117195,
       "vaccinated": 2088161
     },
     "meta": {
-      "last_updated": "2021-02-12T10:35:19+05:30",
+      "last_updated": "2021-02-12T11:42:18+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-02-11",
@@ -10166,7 +10174,7 @@
       "confirmed": 10880556,
       "deceased": 155485,
       "other": 4492,
-      "recovered": 10587503,
+      "recovered": 10587505,
       "tested": 204789784,
       "vaccinated": 7505010
     }
@@ -10176,6 +10184,7 @@
       "confirmed": 770,
       "deceased": 14,
       "recovered": 1898,
+      "tested": 714359,
       "vaccinated": 89879
     },
     "districts": {
@@ -11531,12 +11540,17 @@
     "meta": {
       "last_updated": "2021-02-11T19:59:24+05:30",
       "notes": "[Jan 1]:As no bulletin was provided for 31'st Dec'20,its count has been combined with 1st Jan'21\n[Jan 9]:Due to reconcillation there are 1286 cases.",
-      "population": 224979000
+      "population": 224979000,
+      "tested": {
+        "last_updated": "2021-02-11",
+        "source": "https://twitter.com/UPGovt/status/1359844960175030274"
+      }
     },
     "total": {
       "confirmed": 601898,
       "deceased": 8696,
       "recovered": 589882,
+      "tested": 29167417,
       "vaccinated": 763421
     }
   },
@@ -11546,6 +11560,7 @@
       "deceased": 14,
       "other": 27,
       "recovered": 481,
+      "tested": 44813,
       "vaccinated": 27326
     },
     "districts": {
@@ -11806,13 +11821,18 @@
     "meta": {
       "last_updated": "2021-02-11T21:33:29+05:30",
       "notes": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
-      "population": 11141000
+      "population": 11141000,
+      "tested": {
+        "last_updated": "2021-02-11",
+        "source": "https://health.uk.gov.in/files/2021.02.11_Health_Bulletin_1.pdf"
+      }
     },
     "total": {
       "confirmed": 96673,
       "deceased": 1676,
       "other": 1378,
       "recovered": 92950,
+      "tested": 2220621,
       "vaccinated": 97618
     }
   },
@@ -11821,6 +11841,7 @@
       "confirmed": 1051,
       "deceased": 24,
       "recovered": 1706,
+      "tested": 127659,
       "vaccinated": 109076
     },
     "districts": {
@@ -12164,12 +12185,17 @@
     },
     "meta": {
       "last_updated": "2021-02-11T21:13:24+05:30",
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2021-02-11",
+        "source": "https://www.wbhealth.gov.in/uploaded_files/corona/WB_DHFW_Bulletin_11th_FEBRUARY_REPORT_FINAL.pdf"
+      }
     },
     "total": {
       "confirmed": 572032,
       "deceased": 10225,
       "recovered": 557494,
+      "tested": 8231998,
       "vaccinated": 453303
     }
   }

@@ -8854,12 +8854,14 @@
     "delta": {
       "confirmed": 340,
       "deceased": 11,
-      "recovered": 138
+      "recovered": 138,
+      "tested": 15647
     },
     "delta7": {
       "confirmed": 1613,
       "deceased": 50,
-      "recovered": 1132
+      "recovered": 1132,
+      "tested": 53672
     },
     "districts": {
       "Agra": {
@@ -10059,21 +10061,28 @@
       }
     },
     "meta": {
-      "population": 224979000
+      "population": 224979000,
+      "tested": {
+        "last_updated": "2020-05-21",
+        "source": "https://t.me/indiacovid/5279?single"
+      }
     },
     "total": {
       "confirmed": 5515,
       "deceased": 138,
-      "recovered": 3204
+      "recovered": 3204,
+      "tested": 206811
     }
   },
   "UT": {
     "delta": {
-      "confirmed": 19
+      "confirmed": 19,
+      "tested": 1025
     },
     "delta7": {
       "confirmed": 67,
-      "recovered": 3
+      "recovered": 3,
+      "tested": 5234
     },
     "districts": {
       "Almora": {
@@ -10334,24 +10343,31 @@
       }
     },
     "meta": {
-      "population": 11141000
+      "population": 11141000,
+      "tested": {
+        "last_updated": "2020-05-21",
+        "source": "http://health.uk.gov.in/files/2020.05.21_Health_Bulletin.pdf"
+      }
     },
     "total": {
       "confirmed": 145,
       "deceased": 1,
-      "recovered": 53
+      "recovered": 53,
+      "tested": 16528
     }
   },
   "WB": {
     "delta": {
       "confirmed": 94,
       "deceased": 6,
-      "recovered": 57
+      "recovered": 57,
+      "tested": 4242
     },
     "delta7": {
       "confirmed": 820,
       "deceased": 44,
-      "recovered": 425
+      "recovered": 425,
+      "tested": 52407
     },
     "districts": {
       "Birbhum": {
@@ -10660,12 +10676,17 @@
       }
     },
     "meta": {
-      "population": 96906000
+      "population": 96906000,
+      "tested": {
+        "last_updated": "2020-05-21",
+        "source": "https://twitter.com/wbdhfw/status/1263497291618570246?s=09"
+      }
     },
     "total": {
       "confirmed": 3197,
       "deceased": 259,
-      "recovered": 1193
+      "recovered": 1193,
+      "tested": 115244
     }
   }
 }
