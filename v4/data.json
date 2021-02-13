@@ -5112,7 +5112,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-13T20:09:23+05:30",
+      "last_updated": "2021-02-13T20:18:32+05:30",
       "population": 65798000,
       "tested": {
         "last_updated": "2021-02-13",
@@ -5483,19 +5483,27 @@
     }
   },
   "LD": {
+    "delta": {
+      "confirmed": 36,
+      "recovered": 15
+    },
     "delta7": {
-      "confirmed": 37,
+      "confirmed": 73,
       "other": 1,
-      "recovered": 53,
+      "recovered": 68,
       "tested": 6642,
       "vaccinated": 937
     },
     "districts": {
       "Lakshadweep": {
+        "delta": {
+          "confirmed": 36,
+          "recovered": 15
+        },
         "delta7": {
-          "confirmed": 37,
+          "confirmed": 73,
           "other": 1,
-          "recovered": 53,
+          "recovered": 68,
           "tested": 6642
         },
         "meta": {
@@ -5506,15 +5514,15 @@
           }
         },
         "total": {
-          "confirmed": 188,
+          "confirmed": 224,
           "other": 3,
-          "recovered": 116,
+          "recovered": 131,
           "tested": 14179
         }
       }
     },
     "meta": {
-      "last_updated": "2021-02-12T22:05:33+05:30",
+      "last_updated": "2021-02-13T20:18:39+05:30",
       "population": 68000,
       "tested": {
         "last_updated": "2021-02-12",
@@ -5522,9 +5530,9 @@
       }
     },
     "total": {
-      "confirmed": 188,
+      "confirmed": 224,
       "other": 3,
-      "recovered": 116,
+      "recovered": 131,
       "tested": 14179,
       "vaccinated": 1776
     }
@@ -8812,19 +8820,27 @@
     }
   },
   "PY": {
+    "delta": {
+      "confirmed": 24,
+      "recovered": 24
+    },
     "delta7": {
-      "confirmed": 146,
+      "confirmed": 170,
       "deceased": 2,
-      "recovered": 177,
+      "recovered": 201,
       "tested": 13365,
       "vaccinated": 1978
     },
     "districts": {
       "Karaikal": {
+        "delta": {
+          "confirmed": 2,
+          "recovered": 4
+        },
         "delta7": {
-          "confirmed": 22,
+          "confirmed": 24,
           "deceased": 1,
-          "recovered": 25
+          "recovered": 29
         },
         "meta": {
           "notes": "2 case of TN has been transferred,so has been reduced from the total count.",
@@ -8834,16 +8850,20 @@
           }
         },
         "total": {
-          "confirmed": 3943,
+          "confirmed": 3945,
           "deceased": 66,
-          "recovered": 3832,
+          "recovered": 3836,
           "tested": 73142
         }
       },
       "Mahe": {
+        "delta": {
+          "confirmed": 4,
+          "recovered": 10
+        },
         "delta7": {
-          "confirmed": 21,
-          "recovered": 42
+          "confirmed": 25,
+          "recovered": 52
         },
         "meta": {
           "notes": "1 case of KL have been transferred,so have been reduced from the total count",
@@ -8853,17 +8873,21 @@
           }
         },
         "total": {
-          "confirmed": 2129,
+          "confirmed": 2133,
           "deceased": 10,
-          "recovered": 2056,
+          "recovered": 2066,
           "tested": 42415
         }
       },
       "Puducherry": {
+        "delta": {
+          "confirmed": 18,
+          "recovered": 10
+        },
         "delta7": {
-          "confirmed": 103,
+          "confirmed": 121,
           "deceased": 1,
-          "recovered": 107
+          "recovered": 117
         },
         "meta": {
           "notes": "209 cases(204 of TN, 1 of AP and 4 other) have been transferred,so have been reduced from the total count.[July 18]4 cases have transferred to TN and have been reduced from recovered cases.",
@@ -8873,9 +8897,9 @@
           }
         },
         "total": {
-          "confirmed": 31224,
+          "confirmed": 31242,
           "deceased": 535,
-          "recovered": 30513,
+          "recovered": 30523,
           "tested": 425639
         }
       },
@@ -8907,9 +8931,9 @@
       }
     },
     "total": {
-      "confirmed": 39416,
+      "confirmed": 39440,
       "deceased": 656,
-      "recovered": 38476,
+      "recovered": 38500,
       "tested": 603831,
       "vaccinated": 5510
     }
@@ -10634,7 +10658,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-13T20:08:28+05:30",
+      "last_updated": "2021-02-13T20:13:27+05:30",
       "notes": "[July 22]: 444 backdated deceased entries added to Chennai in TN bulletin.\n2 deaths cross notified to other states from Chennai and Coimbatore.\n1 patient died after turning negative for infection in Chengalpattu.\nThese cases have been added to TN deceased tally",
       "population": 75695000,
       "tested": {
@@ -10806,21 +10830,21 @@
   },
   "TT": {
     "delta": {
-      "confirmed": 1465,
+      "confirmed": 1525,
       "deceased": 16,
       "other": 12,
-      "recovered": 1540
+      "recovered": 1579
     },
     "delta7": {
-      "confirmed": 66700,
+      "confirmed": 66760,
       "deceased": 572,
       "other": -39,
-      "recovered": 78675,
+      "recovered": 78714,
       "tested": 4165020,
       "vaccinated": 2192325
     },
     "meta": {
-      "last_updated": "2021-02-13T20:09:22+05:30",
+      "last_updated": "2021-02-13T20:18:30+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-02-12",
@@ -10832,10 +10856,10 @@
       }
     },
     "total": {
-      "confirmed": 10894015,
+      "confirmed": 10894075,
       "deceased": 155604,
       "other": 4514,
-      "recovered": 10600249,
+      "recovered": 10600288,
       "tested": 205533398,
       "vaccinated": 7967647
     }
@@ -12521,7 +12545,7 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-13T20:08:32+05:30",
+      "last_updated": "2021-02-13T20:13:29+05:30",
       "notes": "[Oct 30]: Metric of capturing the testing data has switched to \"Samples Tested\" from \"Samples Collected\"",
       "population": 11141000,
       "tested": {
