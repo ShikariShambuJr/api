@@ -7073,16 +7073,26 @@
     }
   },
   "MZ": {
+    "delta": {
+      "deceased": 1,
+      "recovered": 1,
+      "tested": 128
+    },
     "delta7": {
       "confirmed": 9,
-      "recovered": 13,
-      "tested": 5151,
+      "deceased": 1,
+      "recovered": 14,
+      "tested": 5279,
       "vaccinated": 817
     },
     "districts": {
       "Aizawl": {
+        "delta": {
+          "deceased": 1
+        },
         "delta7": {
           "confirmed": 5,
+          "deceased": 1,
           "recovered": 9
         },
         "meta": {
@@ -7090,7 +7100,7 @@
         },
         "total": {
           "confirmed": 2884,
-          "deceased": 8,
+          "deceased": 9,
           "recovered": 2865
         }
       },
@@ -7141,16 +7151,19 @@
         }
       },
       "Lunglei": {
+        "delta": {
+          "recovered": 1
+        },
         "delta7": {
           "confirmed": 2,
-          "recovered": 2
+          "recovered": 3
         },
         "meta": {
           "population": 154094
         },
         "total": {
           "confirmed": 416,
-          "recovered": 413
+          "recovered": 414
         }
       },
       "Mamit": {
@@ -7189,26 +7202,30 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-14T18:33:30+05:30",
+      "last_updated": "2021-02-15T18:33:37+05:30",
       "population": 1192000,
       "tested": {
-        "last_updated": "2021-02-14",
-        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-1422021-last-24-hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp"
+        "last_updated": "2021-02-15",
+        "source": "https://dipr.mizoram.gov.in/post/status-of-state-surveillance-of-covid-19-1522021-last-24-hours-500pm-as-per-data-received-from-integrated-diseases-surveillance-programme-idsp"
       }
     },
     "total": {
       "confirmed": 4392,
-      "deceased": 9,
-      "recovered": 4366,
-      "tested": 220482,
+      "deceased": 10,
+      "recovered": 4367,
+      "tested": 220610,
       "vaccinated": 11754
     }
   },
   "NL": {
+    "delta": {
+      "recovered": 15,
+      "tested": 133
+    },
     "delta7": {
       "confirmed": 29,
-      "recovered": 40,
-      "tested": 1231,
+      "recovered": 55,
+      "tested": 1364,
       "vaccinated": 4845
     },
     "districts": {
@@ -7246,9 +7263,12 @@
         }
       },
       "Kohima": {
+        "delta": {
+          "recovered": 15
+        },
         "delta7": {
           "confirmed": 28,
-          "recovered": 26
+          "recovered": 41
         },
         "meta": {
           "population": 270063,
@@ -7260,7 +7280,7 @@
           "confirmed": 3873,
           "deceased": 21,
           "other": 45,
-          "recovered": 3748,
+          "recovered": 3763,
           "tested": 33986
         }
       },
@@ -7384,19 +7404,19 @@
       }
     },
     "meta": {
-      "last_updated": "2021-02-14T18:33:28+05:30",
+      "last_updated": "2021-02-15T18:33:36+05:30",
       "population": 2150000,
       "tested": {
-        "last_updated": "2021-02-14",
-        "source": "https://twitter.com/MyGovNagaland/status/1360918512508669954"
+        "last_updated": "2021-02-15",
+        "source": "https://twitter.com/MyGovNagaland/status/1361270108132315140"
       }
     },
     "total": {
       "confirmed": 12189,
       "deceased": 88,
       "other": 151,
-      "recovered": 11877,
-      "tested": 128108,
+      "recovered": 11892,
+      "tested": 128241,
       "vaccinated": 9818
     }
   },
@@ -10211,19 +10231,19 @@
   "TT": {
     "delta": {
       "confirmed": 187,
-      "deceased": 3,
-      "recovered": 169
+      "deceased": 4,
+      "recovered": 185
     },
     "delta7": {
       "confirmed": 68844,
-      "deceased": 576,
+      "deceased": 577,
       "other": -50,
-      "recovered": 72580,
+      "recovered": 72596,
       "tested": 4128882,
       "vaccinated": 2026287
     },
     "meta": {
-      "last_updated": "2021-02-15T12:00:24+05:30",
+      "last_updated": "2021-02-15T18:33:32+05:30",
       "population": 1332900000,
       "tested": {
         "last_updated": "2021-02-14",
@@ -10236,9 +10256,9 @@
     },
     "total": {
       "confirmed": 10916634,
-      "deceased": 155771,
+      "deceased": 155772,
       "other": 4525,
-      "recovered": 10619485,
+      "recovered": 10619501,
       "tested": 206716634,
       "vaccinated": 8285295
     }
