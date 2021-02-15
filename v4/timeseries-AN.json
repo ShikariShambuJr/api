@@ -5485,34 +5485,38 @@
         "delta": {
           "confirmed": 2,
           "recovered": 4,
+          "tested": 2114,
           "vaccinated": 192
         },
         "delta7": {
           "confirmed": 9,
           "recovered": 6,
-          "tested": 10034,
+          "tested": 12148,
           "vaccinated": 485
         },
         "total": {
           "confirmed": 5009,
           "deceased": 62,
           "recovered": 4938,
-          "tested": 243631,
+          "tested": 245745,
           "vaccinated": 3646
         }
       },
       "2021-02-14": {
+        "delta": {
+          "tested": 1544
+        },
         "delta7": {
           "confirmed": 8,
           "recovered": 6,
-          "tested": 8559,
+          "tested": 12217,
           "vaccinated": 249
         },
         "total": {
           "confirmed": 5009,
           "deceased": 62,
           "recovered": 4938,
-          "tested": 243631,
+          "tested": 247289,
           "vaccinated": 3646
         }
       }
@@ -10591,31 +10595,35 @@
           "2021-02-13": {
             "delta": {
               "confirmed": 2,
-              "recovered": 4
+              "recovered": 4,
+              "tested": 2114
             },
             "delta7": {
               "confirmed": 9,
               "recovered": 6,
-              "tested": 10034
+              "tested": 12148
             },
             "total": {
               "confirmed": 5009,
               "deceased": 62,
               "recovered": 4938,
-              "tested": 243631
+              "tested": 245745
             }
           },
           "2021-02-14": {
+            "delta": {
+              "tested": 1544
+            },
             "delta7": {
               "confirmed": 8,
               "recovered": 6,
-              "tested": 8559
+              "tested": 12217
             },
             "total": {
               "confirmed": 5009,
               "deceased": 62,
               "recovered": 4938,
-              "tested": 243631
+              "tested": 247289
             }
           }
         }
