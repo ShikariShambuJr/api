@@ -7403,13 +7403,14 @@
   "OR": {
     "delta": {
       "confirmed": 88,
-      "deceased": 1
+      "deceased": 1,
+      "tested": 19839
     },
     "delta7": {
       "confirmed": 570,
       "deceased": 1,
       "recovered": 523,
-      "tested": 139080,
+      "tested": 158919,
       "vaccinated": 96321
     },
     "districts": {
@@ -8007,15 +8008,15 @@
       "notes": "[July 12th] :20 non-covid deaths reported in state dashboard are included in the deceased count",
       "population": 43671000,
       "tested": {
-        "last_updated": "2021-02-14",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6278"
+        "last_updated": "2021-02-15",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6326"
       }
     },
     "total": {
       "confirmed": 336262,
       "deceased": 1964,
       "recovered": 333554,
-      "tested": 8023978,
+      "tested": 8043817,
       "vaccinated": 412046
     }
   },
@@ -10051,10 +10052,13 @@
     }
   },
   "TR": {
+    "delta": {
+      "tested": 242
+    },
     "delta7": {
       "confirmed": 1,
       "recovered": 7,
-      "tested": 3259,
+      "tested": 3501,
       "vaccinated": 23888
     },
     "districts": {
@@ -10191,8 +10195,8 @@
       "notes": "[Aug 4]: Tripura bulletin for the previous day is released on the next day. We will add the cases for Tripura against the date of release, as that is the convention that we are following for other states.",
       "population": 3992000,
       "tested": {
-        "last_updated": "2021-02-14",
-        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6279"
+        "last_updated": "2021-02-15",
+        "source": "https://t.me/Covid19india_Auxiliary_Test_Data/6327"
       }
     },
     "total": {
@@ -10200,7 +10204,7 @@
       "deceased": 388,
       "other": 23,
       "recovered": 32937,
-      "tested": 614152,
+      "tested": 614394,
       "vaccinated": 69562
     }
   },
