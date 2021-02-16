@@ -1,6 +1,14 @@
 # COVID19-India API
 
 ## Announcement
+We have added vaccination API in the form of following data points-
+1)Total Vaccine Doses Administered
+2)HCW's & FLW's Vaccinated.
+3)Breakup of Doses Administered(1st and 2nd).
+4)Total Sessions Administered.
+5)Total Individuals Vaccinated.
+6)Statewise Doses Administered.
+
 We have stopped capturing testing data at a district level. Please check the status of the API endpoints below.
 ## CSV
 
@@ -55,6 +63,11 @@ These are the files available
 | :green_heart: | icmr_labs_statewise      | <https://api.covid19india.org/csv/latest/icmr_labs_statewise.csv>      | Number of Labs in each state as per ICMR                                                                |
 | :green_heart: | sources_list                  | <https://api.covid19india.org/csv/latest/sources_list.csv>                  | List of sources that we are using.                                                              |
 | :green_heart: | rtpcr_samples_collected       | <http://api.covid19india.org/csv/latest/icmr_rtpcr_tests_daily.csv>          | Number of RTPCR samples collected statewise in ICMR Application                             |
+
+#### Vaccination 
+| :green_heart: | tested_numbers_icmr_data      | <https://api.covid19india.org/csv/latest/tested_numbers_icmr_data.csv>       | Total Vaccine Doses Administered,HCW's & FLW's Vaccinated,Breakup of Doses Administered(1st and 2nd),Total Sessions Administered,Total Individuals Vaccinated. |
+| :green_heart: | vaccine_doses_administered_statewise      | <http://api.covid19india.org/csv/latest/vaccine_doses_statewise.csv>  | Number of vaccine doses administered statewise                                 |
+
 
 #### Note
 
