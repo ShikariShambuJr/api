@@ -1,15 +1,19 @@
 # COVID19-India API
 
 ## Announcement
-We have added vaccination API in the form of following data points-
-1)Total Vaccine Doses Administered
-2)HCW's & FLW's Vaccinated.
-3)Breakup of Doses Administered(1st and 2nd).
-4)Total Sessions Administered.
-5)Total Individuals Vaccinated.
-6)Statewise Doses Administered.
+:mega: ####1
+We have added following data points to the vaccination API : [tested_numbers_icmr_data](http://api.covid19india.org/csv/latest/vaccine_doses_statewise.csv)
+1. Total vaccine doses administered
+2. HCW(Health Care Workers) & FLW(Front-Line Workers) vaccinated
+3. Breakup of doses administered (1st and 2nd)
+4. Total sessions administered
+5. Total individuals vaccinated (HCW + FLW)
+Breakup of vaccine doses administered by state is available at : [vaccine_doses_administered_statewise](http://api.covid19india.org/csv/latest/vaccine_doses_statewise.csv)
 
+
+:mega: ####2
 We have stopped capturing testing data at a district level. Please check the status of the API endpoints below.
+
 ## CSV
 
 Sometimes, having files in a spreadsheet format is more useful for analysts and scientists. We have provided the files as downloadable csv files as below.
